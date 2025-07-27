@@ -1,0 +1,2867 @@
+[
+  {
+    "courseId": "841044",
+    "name": "Phương pháp lập trình hướng đối tượng",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Từ Lãng Phiêu",
+            "dayOfWeek": 5,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A110",
+            "studyWeeks": [3, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Từ Lãng Phiêu",
+            "dayOfWeek": 5,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.A110",
+            "studyWeeks": [3, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841047",
+    "name": "Công nghệ phần mềm",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Từ Lãng Phiêu",
+            "dayOfWeek": 7,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.B107",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Từ Lãng Phiêu",
+            "dayOfWeek": 7,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.B107",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841048",
+    "name": "Phân tích thiết kế hệ thống thông tin",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Lê Nhị Lãm Thúy",
+            "dayOfWeek": 2,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.E301",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Lê Nhị Lãm Thúy",
+            "dayOfWeek": 2,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.E301",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "2",
+        "schedule": [
+          {
+            "teacher": "Lê Nhị Lãm Thúy",
+            "dayOfWeek": 4,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.E502",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Lê Nhị Lãm Thúy",
+            "dayOfWeek": 4,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.E502",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "3",
+        "schedule": [
+          {
+            "teacher": "Lê Nhị Lãm Thúy",
+            "dayOfWeek": 6,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.E503",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Lê Nhị Lãm Thúy",
+            "dayOfWeek": 6,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.E503",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "4",
+        "schedule": [
+          {
+            "teacher": "Huỳnh Nguyễn Khắc Huy",
+            "dayOfWeek": 6,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.C107",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Huỳnh Nguyễn Khắc Huy",
+            "dayOfWeek": 6,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.C107",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "5",
+        "schedule": [
+          {
+            "teacher": "Phan Nguyệt Minh",
+            "dayOfWeek": 6,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.E502",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Phan Nguyệt Minh",
+            "dayOfWeek": 6,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.E502",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "6",
+        "schedule": [
+          {
+            "teacher": "Phan Nguyệt Minh",
+            "dayOfWeek": 6,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.E502",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Phan Nguyệt Minh",
+            "dayOfWeek": 6,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.E502",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841058",
+    "name": "Hệ điều hành mã nguồn mở",
+    "credits": 3,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Lương Minh Huấn",
+            "dayOfWeek": 4,
+            "startPeriod": 1,
+            "periodCount": 2,
+            "room": "C.E503",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Lương Minh Huấn",
+            "dayOfWeek": 4,
+            "startPeriod": 3,
+            "periodCount": 2,
+            "room": "C.E503",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "2",
+        "schedule": [
+          {
+            "teacher": "Lương Minh Huấn",
+            "dayOfWeek": 5,
+            "startPeriod": 1,
+            "periodCount": 2,
+            "room": "C.E503",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Lương Minh Huấn",
+            "dayOfWeek": 5,
+            "startPeriod": 3,
+            "periodCount": 2,
+            "room": "C.E503",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "3",
+        "schedule": [
+          {
+            "teacher": "Lương Minh Huấn",
+            "dayOfWeek": 6,
+            "startPeriod": 6,
+            "periodCount": 2,
+            "room": "C.E503",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Lương Minh Huấn",
+            "dayOfWeek": 6,
+            "startPeriod": 8,
+            "periodCount": 2,
+            "room": "C.E503",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "4",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Trung Tín",
+            "dayOfWeek": 6,
+            "startPeriod": 6,
+            "periodCount": 2,
+            "room": "C.D401",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Nguyễn Trung Tín",
+            "dayOfWeek": 5,
+            "startPeriod": 1,
+            "periodCount": 2,
+            "room": "C.D401",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "5",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Trung Tín",
+            "dayOfWeek": 6,
+            "startPeriod": 1,
+            "periodCount": 2,
+            "room": "C.E402",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Nguyễn Trung Tín",
+            "dayOfWeek": 4,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.E402",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "6",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Trung Tín",
+            "dayOfWeek": 3,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.E503",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Nguyễn Trung Tín",
+            "dayOfWeek": 2,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.E503",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841068",
+    "name": "Hệ thống thông tin doanh nghiệp",
+    "credits": 3,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Lê Nhị Lãm Thúy",
+            "dayOfWeek": 4,
+            "startPeriod": 6,
+            "periodCount": 2,
+            "room": "C.E403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Lê Nhị Lãm Thúy",
+            "dayOfWeek": 4,
+            "startPeriod": 8,
+            "periodCount": 2,
+            "room": "C.E403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841070",
+    "name": "Thực tập tốt nghiệp (DCT)",
+    "credits": 6,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "dayOfWeek": 2,
+            "startPeriod": 1,
+            "periodCount": 5,
+            "room": "TTSP35",
+            "studyWeeks": [9, 10, 11, 12, 13, 14, 15, 16, 24]
+          },
+          {
+            "dayOfWeek": 2,
+            "startPeriod": 6,
+            "periodCount": 5,
+            "room": "TTSP03",
+            "studyWeeks": [9, 10, 11, 12, 13, 14, 15, 16, 24]
+          },
+          {
+            "dayOfWeek": 3,
+            "startPeriod": 1,
+            "periodCount": 5,
+            "room": "TTSP32",
+            "studyWeeks": [9, 10, 11, 12, 13, 14, 15, 16, 24]
+          },
+          {
+            "dayOfWeek": 3,
+            "startPeriod": 6,
+            "periodCount": 5,
+            "room": "TTSP16",
+            "studyWeeks": [9, 10, 11, 12, 13, 14, 15, 16, 24]
+          },
+          {
+            "dayOfWeek": 4,
+            "startPeriod": 1,
+            "periodCount": 5,
+            "room": "TTSP35",
+            "studyWeeks": [9, 10, 11, 12, 13, 14, 15, 16, 24]
+          },
+          {
+            "dayOfWeek": 4,
+            "startPeriod": 6,
+            "periodCount": 5,
+            "room": "TTSP16",
+            "studyWeeks": [9, 10, 11, 12, 13, 14, 15, 16, 24]
+          },
+          {
+            "dayOfWeek": 5,
+            "startPeriod": 1,
+            "periodCount": 5,
+            "room": "TTSP35",
+            "studyWeeks": [9, 10, 11, 12, 13, 14, 15, 16, 24]
+          },
+          {
+            "dayOfWeek": 5,
+            "startPeriod": 6,
+            "periodCount": 5,
+            "room": "TTSP32",
+            "studyWeeks": [9, 10, 11, 12, 13, 14, 15, 16, 24]
+          },
+          {
+            "dayOfWeek": 6,
+            "startPeriod": 1,
+            "periodCount": 5,
+            "room": "TTSP32",
+            "studyWeeks": [9, 10, 11, 12, 13, 14, 15, 16, 24]
+          },
+          {
+            "dayOfWeek": 6,
+            "startPeriod": 6,
+            "periodCount": 5,
+            "room": "TTSP16",
+            "studyWeeks": [9, 10, 11, 12, 13, 14, 15, 16, 24]
+          },
+          {
+            "dayOfWeek": 7,
+            "startPeriod": 1,
+            "periodCount": 5,
+            "room": "TTSP03",
+            "studyWeeks": [9, 10, 11, 12, 13, 14, 15, 16, 24]
+          },
+          {
+            "dayOfWeek": 7,
+            "startPeriod": 6,
+            "periodCount": 5,
+            "room": "TTSP10",
+            "studyWeeks": [9, 10, 11, 12, 13, 14, 15, 16, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841072",
+    "name": "Các công nghệ lập trình hiện đại",
+    "credits": 3,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Phạm Thi Vương",
+            "dayOfWeek": 7,
+            "startPeriod": 6,
+            "periodCount": 2,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Phạm Thi Vương",
+            "dayOfWeek": 7,
+            "startPeriod": 8,
+            "periodCount": 2,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "2",
+        "schedule": [
+          {
+            "teacher": "Phạm Thi Vương",
+            "dayOfWeek": 6,
+            "startPeriod": 6,
+            "periodCount": 2,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Phạm Thi Vương",
+            "dayOfWeek": 6,
+            "startPeriod": 8,
+            "periodCount": 2,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841099",
+    "name": "Khóa luận tốt nghiệp (DCT)",
+    "credits": 10,
+    "groups": [
+      {
+        "groupId": "2",
+        "schedule": [
+          {
+            "teacher": " ",
+            "dayOfWeek": 0,
+            "startPeriod": 0,
+            "periodCount": 5,
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841107",
+    "name": "Lập trình Java",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Đỗ Ngọc Như Loan",
+            "dayOfWeek": 3,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.A105",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Đỗ Ngọc Như Loan",
+            "dayOfWeek": 3,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.A105",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "2",
+        "schedule": [
+          {
+            "teacher": "Đỗ Ngọc Như Loan",
+            "dayOfWeek": 3,
+            "startPeriod": 8,
+            "periodCount": 3,
+            "room": "C.A105",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Đỗ Ngọc Như Loan",
+            "dayOfWeek": 3,
+            "startPeriod": 6,
+            "periodCount": 2,
+            "room": "C.A105",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "3",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Thanh Sang",
+            "dayOfWeek": 3,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A106",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Nguyễn Thanh Sang",
+            "dayOfWeek": 3,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.A106",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "4",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Thanh Sang",
+            "dayOfWeek": 5,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A102",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Nguyễn Thanh Sang",
+            "dayOfWeek": 5,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.A102",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "5",
+        "schedule": [
+          {
+            "teacher": "Phùng Thái Thiên Trang",
+            "dayOfWeek": 5,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A106",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Phùng Thái Thiên Trang",
+            "dayOfWeek": 5,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.A106",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "6",
+        "schedule": [
+          {
+            "teacher": "Phùng Thái Thiên Trang",
+            "dayOfWeek": 2,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A111",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Phùng Thái Thiên Trang",
+            "dayOfWeek": 2,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.A111",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "7",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Thị Hồng Anh",
+            "dayOfWeek": 4,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A111",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Nguyễn Thị Hồng Anh",
+            "dayOfWeek": 4,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.A111",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "8",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Thị Hồng Anh",
+            "dayOfWeek": 4,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.A106",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Nguyễn Thị Hồng Anh",
+            "dayOfWeek": 4,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.A106",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "9",
+        "schedule": [
+          {
+            "teacher": "Trần Nguyễn Minh Hiếu",
+            "dayOfWeek": 4,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.A111",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Trần Nguyễn Minh Hiếu",
+            "dayOfWeek": 4,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.A111",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841108",
+    "name": "Cấu trúc dữ liệu và giải thuật",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Phạm Thế Bảo",
+            "dayOfWeek": 3,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.C101",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Phạm Thế Bảo",
+            "dayOfWeek": 4,
+            "startPeriod": 8,
+            "periodCount": 3,
+            "room": "C.C101",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Phạm Thế Bảo",
+            "dayOfWeek": 4,
+            "startPeriod": 6,
+            "periodCount": 2,
+            "room": "C.HB403",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 24]
+          },
+          {
+            "teacher": "Phạm Thế Bảo",
+            "dayOfWeek": 6,
+            "startPeriod": 6,
+            "periodCount": 2,
+            "room": "C.HB403",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "2",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Thanh Phước",
+            "dayOfWeek": 5,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.E503",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Nguyễn Thanh Phước",
+            "dayOfWeek": 5,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.E503",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Nguyễn Thanh Phước",
+            "dayOfWeek": 5,
+            "startPeriod": 3,
+            "periodCount": 3,
+            "room": "C.D401",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "3",
+        "schedule": [
+          {
+            "teacher": "Huỳnh Minh Trí",
+            "dayOfWeek": 3,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.C101",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Huỳnh Minh Trí",
+            "dayOfWeek": 7,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.HB403",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Huỳnh Minh Trí",
+            "dayOfWeek": 7,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.HB403",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "4",
+        "schedule": [
+          {
+            "teacher": "Huỳnh Minh Trí",
+            "dayOfWeek": 7,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.A314",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Huỳnh Minh Trí",
+            "dayOfWeek": 7,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.A314",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Huỳnh Minh Trí",
+            "dayOfWeek": 4,
+            "startPeriod": 8,
+            "periodCount": 3,
+            "room": "C.HB403",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "5",
+        "schedule": [
+          {
+            "teacher": "Lê Tấn Long",
+            "dayOfWeek": 3,
+            "startPeriod": 6,
+            "periodCount": 2,
+            "room": "C.HB403",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Lê Tấn Long",
+            "dayOfWeek": 3,
+            "startPeriod": 8,
+            "periodCount": 3,
+            "room": "C.HB403",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Lê Tấn Long",
+            "dayOfWeek": 4,
+            "startPeriod": 3,
+            "periodCount": 3,
+            "room": "C.HB403",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "6",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Duy Hàm",
+            "dayOfWeek": 2,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.D401",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Nguyễn Duy Hàm",
+            "dayOfWeek": 3,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.D401",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Nguyễn Duy Hàm",
+            "dayOfWeek": 2,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.D401",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841109",
+    "name": "Cơ sở dữ liệu",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Huỳnh Nguyễn Khắc Huy",
+            "dayOfWeek": 3,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.C107",
+            "studyWeeks": [3, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Huỳnh Nguyễn Khắc Huy",
+            "dayOfWeek": 3,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.C107",
+            "studyWeeks": [3, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841110",
+    "name": "Cơ sở trí tuệ nhân tạo",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Huỳnh Minh Trí",
+            "dayOfWeek": 5,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.D401",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Huỳnh Minh Trí",
+            "dayOfWeek": 5,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.D401",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "2",
+        "schedule": [
+          {
+            "teacher": "Huỳnh Minh Trí",
+            "dayOfWeek": 6,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.HB403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Huỳnh Minh Trí",
+            "dayOfWeek": 6,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.HB403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "3",
+        "schedule": [
+          {
+            "teacher": "Huỳnh Minh Trí",
+            "dayOfWeek": 4,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.D401",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Huỳnh Minh Trí",
+            "dayOfWeek": 2,
+            "startPeriod": 1,
+            "periodCount": 2,
+            "room": "C.D401",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "4",
+        "schedule": [
+          {
+            "teacher": "Lê Tấn Long",
+            "dayOfWeek": 2,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.HB403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Lê Tấn Long",
+            "dayOfWeek": 2,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.HB403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "5",
+        "schedule": [
+          {
+            "teacher": "Lê Tấn Long",
+            "dayOfWeek": 2,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.HB403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Lê Tấn Long",
+            "dayOfWeek": 2,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.HB403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "6",
+        "schedule": [
+          {
+            "teacher": "Đỗ Như Tài",
+            "dayOfWeek": 6,
+            "startPeriod": 8,
+            "periodCount": 3,
+            "room": "C.E301",
+            "studyWeeks": [3, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Lê Tấn Long",
+            "dayOfWeek": 3,
+            "startPeriod": 1,
+            "periodCount": 2,
+            "room": "C.C107",
+            "studyWeeks": [3, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841113",
+    "name": "Phát triển phần mềm mã nguồn mở",
+    "credits": 3,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Từ Lãng Phiêu",
+            "dayOfWeek": 2,
+            "startPeriod": 6,
+            "periodCount": 2,
+            "room": "C.E503",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Từ Lãng Phiêu",
+            "dayOfWeek": 2,
+            "startPeriod": 8,
+            "periodCount": 2,
+            "room": "C.E503",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "2",
+        "schedule": [
+          {
+            "teacher": "Từ Lãng Phiêu",
+            "dayOfWeek": 4,
+            "startPeriod": 1,
+            "periodCount": 2,
+            "room": "C.E403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Từ Lãng Phiêu",
+            "dayOfWeek": 4,
+            "startPeriod": 3,
+            "periodCount": 2,
+            "room": "C.E403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "3",
+        "schedule": [
+          {
+            "teacher": "Từ Lãng Phiêu",
+            "dayOfWeek": 3,
+            "startPeriod": 6,
+            "periodCount": 2,
+            "room": "C.E503",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Từ Lãng Phiêu",
+            "dayOfWeek": 3,
+            "startPeriod": 8,
+            "periodCount": 2,
+            "room": "C.E503",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "4",
+        "schedule": [
+          {
+            "teacher": "Từ Lãng Phiêu",
+            "dayOfWeek": 2,
+            "startPeriod": 1,
+            "periodCount": 2,
+            "room": "C.E502",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Từ Lãng Phiêu",
+            "dayOfWeek": 2,
+            "startPeriod": 3,
+            "periodCount": 2,
+            "room": "C.E502",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "5",
+        "schedule": [
+          {
+            "teacher": "Từ Lãng Phiêu",
+            "dayOfWeek": 6,
+            "startPeriod": 1,
+            "periodCount": 2,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Từ Lãng Phiêu",
+            "dayOfWeek": 6,
+            "startPeriod": 3,
+            "periodCount": 2,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841303",
+    "name": "Kỹ thuật lập trình",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Phan Tấn Quốc",
+            "dayOfWeek": 3,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.A509",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Phan Tấn Quốc",
+            "dayOfWeek": 7,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.A301",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Nguyễn Trung Tín",
+            "dayOfWeek": 3,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.A111",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "2",
+        "schedule": [
+          {
+            "teacher": "Trần Nguyễn Minh Hiếu",
+            "dayOfWeek": 2,
+            "startPeriod": 1,
+            "periodCount": 2,
+            "room": "C.A111",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Trần Nguyễn Minh Hiếu",
+            "dayOfWeek": 3,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.A110",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Trần Nguyễn Minh Hiếu",
+            "dayOfWeek": 2,
+            "startPeriod": 3,
+            "periodCount": 3,
+            "room": "C.A111",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "3",
+        "schedule": [
+          {
+            "teacher": "Phan Tấn Quốc",
+            "dayOfWeek": 4,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "1.C201",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Phan Tấn Quốc",
+            "dayOfWeek": 6,
+            "startPeriod": 6,
+            "periodCount": 2,
+            "room": "C.E404",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Nguyễn Trung Tín",
+            "dayOfWeek": 2,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.A105",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "4",
+        "schedule": [
+          {
+            "teacher": "Phạm Hoàng Vương",
+            "dayOfWeek": 6,
+            "startPeriod": 1,
+            "periodCount": 2,
+            "room": "C.A105",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Phạm Hoàng Vương",
+            "dayOfWeek": 6,
+            "startPeriod": 3,
+            "periodCount": 3,
+            "room": "C.A105",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Nguyễn Trung Tín",
+            "dayOfWeek": 6,
+            "startPeriod": 8,
+            "periodCount": 3,
+            "room": "C.A109",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "5",
+        "schedule": [
+          {
+            "teacher": "Lai Đình Khải",
+            "dayOfWeek": 3,
+            "startPeriod": 6,
+            "periodCount": 2,
+            "room": "C.A111",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Lai Đình Khải",
+            "dayOfWeek": 4,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A109",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Lai Đình Khải",
+            "dayOfWeek": 3,
+            "startPeriod": 8,
+            "periodCount": 3,
+            "room": "C.A111",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "6",
+        "schedule": [
+          {
+            "teacher": "Trịnh Tấn Đạt",
+            "dayOfWeek": 7,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.A302",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Trịnh Tấn Đạt",
+            "dayOfWeek": 7,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.A302",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Nguyễn Trung Tín",
+            "dayOfWeek": 4,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A110",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "7",
+        "schedule": [
+          {
+            "teacher": "Lai Đình Khải",
+            "dayOfWeek": 2,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A109",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Lai Đình Khải",
+            "dayOfWeek": 6,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.A102",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Lai Đình Khải",
+            "dayOfWeek": 6,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A102",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "8",
+        "schedule": [
+          {
+            "teacher": "Trịnh Tấn Đạt",
+            "dayOfWeek": 7,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A302",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Trịnh Tấn Đạt",
+            "dayOfWeek": 7,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.A302",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Nguyễn Trung Tín",
+            "dayOfWeek": 5,
+            "startPeriod": 3,
+            "periodCount": 3,
+            "room": "C.A109",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "9",
+        "schedule": [
+          {
+            "teacher": "Trương Tấn Khoa",
+            "dayOfWeek": 5,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.E501",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Trương Tấn Khoa",
+            "dayOfWeek": 6,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A308",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Trương Tấn Khoa",
+            "dayOfWeek": 5,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.A102",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "10",
+        "schedule": [
+          {
+            "teacher": "Phan Tấn Quốc",
+            "dayOfWeek": 4,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A501",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Phan Tấn Quốc",
+            "dayOfWeek": 7,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.A301",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Lê Tấn Long",
+            "dayOfWeek": 3,
+            "startPeriod": 3,
+            "periodCount": 3,
+            "room": "C.A106",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "11",
+        "schedule": [
+          {
+            "teacher": "Trương Tấn Khoa",
+            "dayOfWeek": 4,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.A304",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Trương Tấn Khoa",
+            "dayOfWeek": 6,
+            "startPeriod": 3,
+            "periodCount": 3,
+            "room": "C.A510",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Trương Tấn Khoa",
+            "dayOfWeek": 4,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.A102",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "12",
+        "schedule": [
+          {
+            "teacher": "Phan Tấn Quốc",
+            "dayOfWeek": 4,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.A501",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Phan Tấn Quốc",
+            "dayOfWeek": 7,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A301",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 24]
+          },
+          {
+            "teacher": "Lê Tấn Long",
+            "dayOfWeek": 4,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A102",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841324",
+    "name": "PPNC khoa học trong Công nghệ thông tPinPNC khoa học trong Công nghệ thông",
+    "credits": 2,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Đỗ Như Tài",
+            "dayOfWeek": 7,
+            "startPeriod": 2,
+            "periodCount": 2,
+            "room": "C.A313",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "2",
+        "schedule": [
+          {
+            "teacher": "Đỗ Như Tài",
+            "dayOfWeek": 7,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.A313",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841404",
+    "name": "Mạng máy tính",
+    "credits": 3,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Lương Minh Huấn",
+            "dayOfWeek": 5,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A105",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          },
+          {
+            "teacher": "Lương Minh Huấn",
+            "dayOfWeek": 3,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A110",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "2",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Quốc Phong",
+            "dayOfWeek": 5,
+            "startPeriod": 3,
+            "periodCount": 3,
+            "room": "C.A506",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          },
+          {
+            "teacher": "Nguyễn Quốc Phong",
+            "dayOfWeek": 2,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A110",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "3",
+        "schedule": [
+          {
+            "teacher": "Lương Minh Huấn",
+            "dayOfWeek": 4,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A105",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          },
+          {
+            "teacher": "Lương Minh Huấn",
+            "dayOfWeek": 3,
+            "startPeriod": 3,
+            "periodCount": 3,
+            "room": "C.A109",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "4",
+        "schedule": [
+          {
+            "teacher": "Cổ Tồn Minh Đăng",
+            "dayOfWeek": 2,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A105",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          },
+          {
+            "teacher": "Cổ Tồn Minh Đăng",
+            "dayOfWeek": 4,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A106",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "5",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Quốc Phong",
+            "dayOfWeek": 6,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.E504",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          },
+          {
+            "teacher": "Nguyễn Quốc Phong",
+            "dayOfWeek": 4,
+            "startPeriod": 3,
+            "periodCount": 3,
+            "room": "C.A105",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "6",
+        "schedule": [
+          {
+            "teacher": "Cổ Tồn Minh Đăng",
+            "dayOfWeek": 5,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A111",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          },
+          {
+            "teacher": "Cổ Tồn Minh Đăng",
+            "dayOfWeek": 6,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A105",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "7",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Quốc Phong",
+            "dayOfWeek": 3,
+            "startPeriod": 3,
+            "periodCount": 3,
+            "room": "C.C107",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          },
+          {
+            "teacher": "Nguyễn Quốc Phong",
+            "dayOfWeek": 6,
+            "startPeriod": 3,
+            "periodCount": 3,
+            "room": "C.A106",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "8",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Trung Tín",
+            "dayOfWeek": 5,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A109",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          },
+          {
+            "teacher": "Nguyễn Trung Tín",
+            "dayOfWeek": 3,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A109",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "9",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Quốc Phong",
+            "dayOfWeek": 5,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A506",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          },
+          {
+            "teacher": "Nguyễn Quốc Phong",
+            "dayOfWeek": 2,
+            "startPeriod": 3,
+            "periodCount": 3,
+            "room": "C.A106",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "10",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Trung Tín",
+            "dayOfWeek": 2,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.A106",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          },
+          {
+            "teacher": "Nguyễn Trung Tín",
+            "dayOfWeek": 6,
+            "startPeriod": 3,
+            "periodCount": 3,
+            "room": "C.A102",
+            "studyWeeks": [2, 3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841407",
+    "name": "Các hệ quản trị cơ sở dữ liệu",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Trương Tấn Khoa",
+            "dayOfWeek": 4,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.D401",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Trương Tấn Khoa",
+            "dayOfWeek": 4,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.D401",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "2",
+        "schedule": [
+          {
+            "teacher": "Trương Tấn Khoa",
+            "dayOfWeek": 5,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.E402",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Trương Tấn Khoa",
+            "dayOfWeek": 5,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.E402",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841408",
+    "name": "Kiểm thử phần mềm",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Lê Thanh Trúc",
+            "dayOfWeek": 5,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.E403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Nguyễn Lê Thanh Trúc",
+            "dayOfWeek": 5,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.E403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841410",
+    "name": "An ninh mạng máy tính",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Võ Lam Giang",
+            "dayOfWeek": 4,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Nguyễn Võ Lam Giang",
+            "dayOfWeek": 4,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841413",
+    "name": "Cơ sở dữ liệu phân tán",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Huỳnh Nguyễn Khắc Huy",
+            "dayOfWeek": 3,
+            "startPeriod": 3,
+            "periodCount": 3,
+            "room": "C.D401",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Huỳnh Nguyễn Khắc Huy",
+            "dayOfWeek": 3,
+            "startPeriod": 1,
+            "periodCount": 2,
+            "room": "C.D401",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841414",
+    "name": "Thiết kế và phân tích giải thuật",
+    "credits": 3,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Hòa",
+            "dayOfWeek": 3,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.C105",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "2",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Hòa",
+            "dayOfWeek": 4,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.E502",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "3",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Hòa",
+            "dayOfWeek": 5,
+            "startPeriod": 8,
+            "periodCount": 3,
+            "room": "C.C102",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "4",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Hòa",
+            "dayOfWeek": 6,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.C105",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "5",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Hòa",
+            "dayOfWeek": 5,
+            "startPeriod": 3,
+            "periodCount": 3,
+            "room": "C.E502",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841415",
+    "name": "Luật pháp và CNTT",
+    "credits": 2,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Quách Thị Ngọc Thiện",
+            "dayOfWeek": 6,
+            "startPeriod": 1,
+            "periodCount": 2,
+            "room": "C.C103",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841422",
+    "name": "Ngôn ngữ lập trình Python",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Lê Tấn Long",
+            "dayOfWeek": 5,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.HB403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Lê Tấn Long",
+            "dayOfWeek": 5,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.HB403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "2",
+        "schedule": [
+          {
+            "teacher": "Lê Tấn Long",
+            "dayOfWeek": 5,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.HB403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Lê Tấn Long",
+            "dayOfWeek": 5,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.HB403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "3",
+        "schedule": [
+          {
+            "teacher": "Hà Thanh Dũng",
+            "dayOfWeek": 3,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.E403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Hà Thanh Dũng",
+            "dayOfWeek": 3,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.E403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "4",
+        "schedule": [
+          {
+            "teacher": "Hà Thanh Dũng",
+            "dayOfWeek": 2,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Hà Thanh Dũng",
+            "dayOfWeek": 2,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "5",
+        "schedule": [
+          {
+            "teacher": "Hà Thanh Dũng",
+            "dayOfWeek": 3,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.E402",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Hà Thanh Dũng",
+            "dayOfWeek": 3,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.E402",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841423",
+    "name": "Ngôn ngữ lập trình C#",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Quốc Huy",
+            "dayOfWeek": 7,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.D401",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Nguyễn Quốc Huy",
+            "dayOfWeek": 7,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.D401",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "2",
+        "schedule": [
+          {
+            "teacher": "Từ Lãng Phiêu",
+            "dayOfWeek": 6,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.E403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Từ Lãng Phiêu",
+            "dayOfWeek": 6,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.E403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "3",
+        "schedule": [
+          {
+            "teacher": "Từ Lãng Phiêu",
+            "dayOfWeek": 7,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.E403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Từ Lãng Phiêu",
+            "dayOfWeek": 7,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.E403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "4",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Minh Cảnh",
+            "dayOfWeek": 7,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.E403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Nguyễn Minh Cảnh",
+            "dayOfWeek": 7,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.E403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841434",
+    "name": "Thương mại điện tử và ứng dụng",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Phạm Thi Vương",
+            "dayOfWeek": 7,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Phạm Thi Vương",
+            "dayOfWeek": 7,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841438",
+    "name": "Lập trình ứng dụng mạng",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Võ Lam Giang",
+            "dayOfWeek": 6,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.E402",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Nguyễn Võ Lam Giang",
+            "dayOfWeek": 6,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.E402",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841439",
+    "name": "Mạng không dây",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Trung Tín",
+            "dayOfWeek": 4,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Nguyễn Trung Tín",
+            "dayOfWeek": 4,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841440",
+    "name": "Phân tích và thiết kế mạng máy tính",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Lương Minh Huấn",
+            "dayOfWeek": 6,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.E403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Lương Minh Huấn",
+            "dayOfWeek": 6,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.E403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841442",
+    "name": "Mạng đa phương tiện và di động (ngành CNTT)",
+    "credits": 3,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Huỳnh Lê Minh Thiện",
+            "dayOfWeek": 2,
+            "startPeriod": 3,
+            "periodCount": 3,
+            "room": "C.C107",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841446",
+    "name": "Phân tích và xử lý ảnh",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Phạm Thế Bảo",
+            "dayOfWeek": 3,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.HB403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Phạm Thế Bảo",
+            "dayOfWeek": 3,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.HB403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841447",
+    "name": "Khai thác dữ liệu và ứng dụng",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Thanh Phước",
+            "dayOfWeek": 7,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.D401",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Nguyễn Thanh Phước",
+            "dayOfWeek": 7,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.D401",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841456",
+    "name": "Công nghệ tri thức",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Huỳnh Minh Trí",
+            "dayOfWeek": 2,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.E402",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Huỳnh Minh Trí",
+            "dayOfWeek": 2,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.E402",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841462",
+    "name": "Phát triển ứng dụng trên thiết bị di động (ngành KTPM)",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Phan Nguyệt Minh",
+            "dayOfWeek": 3,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.E403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Phan Nguyệt Minh",
+            "dayOfWeek": 3,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.E403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841463",
+    "name": "Phát triển ứng dụng trên thiết bị di động nâng cao",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Phan Nguyệt Minh",
+            "dayOfWeek": 2,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.E403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Phan Nguyệt Minh",
+            "dayOfWeek": 2,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.E403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "2",
+        "schedule": [
+          {
+            "teacher": "Trần Đình Nghĩa",
+            "dayOfWeek": 2,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.E402",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Trần Đình Nghĩa",
+            "dayOfWeek": 2,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.E402",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "3",
+        "schedule": [
+          {
+            "teacher": "Phan Nguyệt Minh",
+            "dayOfWeek": 2,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.E403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Phan Nguyệt Minh",
+            "dayOfWeek": 2,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.E403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "4",
+        "schedule": [
+          {
+            "teacher": "Trần Đình Nghĩa",
+            "dayOfWeek": 4,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.E402",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Trần Đình Nghĩa",
+            "dayOfWeek": 4,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.E402",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841464",
+    "name": "Lập trình Web và ứng dụng nâng cao",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Cao Thái Phương Thanh",
+            "dayOfWeek": 7,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.HB403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Cao Thái Phương Thanh",
+            "dayOfWeek": 7,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.HB403",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "2",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Thanh Sang",
+            "dayOfWeek": 3,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.E402",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Nguyễn Thanh Sang",
+            "dayOfWeek": 3,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.E402",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "3",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Thanh Sang",
+            "dayOfWeek": 5,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.E402",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Nguyễn Thanh Sang",
+            "dayOfWeek": 5,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.E402",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "4",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Thanh Sang",
+            "dayOfWeek": 7,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.E402",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Nguyễn Thanh Sang",
+            "dayOfWeek": 7,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.E402",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "5",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Thanh Sang",
+            "dayOfWeek": 7,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.E402",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Nguyễn Thanh Sang",
+            "dayOfWeek": 7,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.E402",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841468",
+    "name": "Chuyên đề J2EE",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Thanh Phước",
+            "dayOfWeek": 7,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.C102",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Nguyễn Thanh Phước",
+            "dayOfWeek": 7,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.C102",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841476",
+    "name": "Đồ án chuyên ngành (ngành CNTT, ngành KTPM)",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Tuấn Đăng",
+            "dayOfWeek": 7,
+            "startPeriod": 6,
+            "periodCount": 5,
+            "room": "C.A016",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "2",
+        "schedule": [
+          {
+            "teacher": "Trần Đình Nghĩa",
+            "dayOfWeek": 2,
+            "startPeriod": 6,
+            "periodCount": 5,
+            "room": "C.E502",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841480",
+    "name": "Xây dựng phần mềm theo mô hình phân lớp (2020)",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Từ Lãng Phiêu",
+            "dayOfWeek": 3,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Từ Lãng Phiêu",
+            "dayOfWeek": 3,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "2",
+        "schedule": [
+          {
+            "teacher": "Từ Lãng Phiêu",
+            "dayOfWeek": 5,
+            "startPeriod": 1,
+            "periodCount": 3,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Từ Lãng Phiêu",
+            "dayOfWeek": 5,
+            "startPeriod": 4,
+            "periodCount": 2,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "3",
+        "schedule": [
+          {
+            "teacher": "Cao Minh Thành",
+            "dayOfWeek": 5,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Cao Minh Thành",
+            "dayOfWeek": 5,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841481",
+    "name": "Thiết kế giao diện",
+    "credits": 4,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Phạm Thi Vương",
+            "dayOfWeek": 2,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Phạm Thi Vương",
+            "dayOfWeek": 2,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "2",
+        "schedule": [
+          {
+            "teacher": "Phạm Thi Vương",
+            "dayOfWeek": 3,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          },
+          {
+            "teacher": "Phạm Thi Vương",
+            "dayOfWeek": 3,
+            "startPeriod": 9,
+            "periodCount": 2,
+            "room": "C.HB406",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "841482",
+    "name": "Seminar chuyên đề (ngành CNTT, ngành KTPM)",
+    "credits": 3,
+    "groups": [
+      {
+        "groupId": "1",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Tuấn Đăng",
+            "dayOfWeek": 7,
+            "startPeriod": 1,
+            "periodCount": 5,
+            "room": "C.A016",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 24]
+          }
+        ]
+      },
+      {
+        "groupId": "2",
+        "schedule": [
+          {
+            "teacher": "Nguyễn Quốc Huy",
+            "dayOfWeek": 7,
+            "startPeriod": 6,
+            "periodCount": 3,
+            "room": "C.C105",
+            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+          }
+        ]
+      }
+    ]
+  }
+]
