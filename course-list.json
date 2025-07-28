@@ -2,4406 +2,4406 @@
   {
     "courseId": "849001",
     "name": "Lập trình hướng đối tượng và ứng dụng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "849017",
     "name": "PLC",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850007",
     "name": "Vật lý A1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850016",
     "name": "Kỹ thuật lập trình và ứng dụng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850021",
     "name": "Điện tử số",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850022",
     "name": "Thí nghiệm điện tử 1",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "850038",
     "name": "Đo lường cảm biến và điều khiển dùng máy tính",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850311",
     "name": "Xử lí ảnh",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850324",
     "name": "Kỹ thuật IoT",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850402",
     "name": "Giải tích mạch điện",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850404",
     "name": "Tiếng Anh chuyên ngành",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850407",
     "name": "Linh kiện và mạch điện tử 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850408",
     "name": "Cơ sở điều khiển tự động",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850411",
     "name": "Tín hiệu và hệ thống",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850415",
     "name": "Điều khiển thích nghi",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850426",
     "name": "Hệ thống viễn thông số",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "851402",
     "name": "Thiết kế logic số",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "851403",
     "name": "Thí nghiệm điện tử 2",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "851405",
     "name": "Chuyên đề tốt nghiệp điện, điện tử 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "851406",
     "name": "Chuyên đề tốt nghiệp điện, điện tử 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "851407",
     "name": "Chuyên đề tốt nghiệp điện, điện tử 3",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "864005",
     "name": "Giải tích 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "864007",
     "name": "Đại số tuyến tính",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834216",
     "name": "Phương pháp xử lý số liệu môi trường",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834307",
     "name": "Kỹ thuật phân tích môi trường",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834315",
     "name": "Luật và chính sách môi trường",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834372",
     "name": "Ứng dụng phương pháp nghiên cứu khoa học trong ngành môi trường",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "834402",
     "name": "Công nghệ sinh học môi trường",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834404",
     "name": "Vật lý môi trường",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834408",
     "name": "Năng lượng tái tạo",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834410",
     "name": "Hoá sinh môi trường",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834412",
     "name": "Tiếng Anh chuyên ngành môi trường 2",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "834413",
     "name": "Thực hành các quá trình sinh học trong KTMT",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "834414",
     "name": "Thực hành các quá trình hóa - lý trong kỹ thuật môi trường",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "834421",
     "name": "Tài nguyên khoáng sản và phát triển bền vững",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834426",
     "name": "Quan trắc và sinh vật chỉ thị môi trường",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834432",
     "name": "Đồ án xử lý nước",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "834433",
     "name": "Các phương pháp oxy hóa nâng cao trong xử lý nước thải",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "834436",
     "name": "Kiểm soát và xử lý ô nhiễm đất",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834438",
     "name": "Kỹ thuật lò đốt chất thải",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "834439",
     "name": "Ứng dụng bức xạ trong xử lý ô nhiễm môi trường",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "834451",
     "name": "Thực tế chuyên môn 2",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "864002",
     "name": "Xác suất thống kê B",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850029",
     "name": "Thực hành điện - điện tử",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "850401",
     "name": "Công cụ toán chuyên ngành kỹ thuật",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850406",
     "name": "Trường điện từ và kỹ thuật siêu cao tần",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850412",
     "name": "Kiến trúc và tổ chức máy tính",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850423",
     "name": "Kỹ thuật chuyển mạch tiên tiến",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850424",
     "name": "Hệ thống thông tin di động số",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850436",
     "name": "Chuyên đề tốt nghiệp viễn thông 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850437",
     "name": "Chuyên đề tốt nghiệp viễn thông 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850438",
     "name": "Chuyên đề tốt nghiệp viễn thông 3",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "850439",
     "name": "Thực hành vi điều khiển",
-    "credits": 1,
+    "credits": 1
   },
   {
     "courseId": "852003",
     "name": "Truyền dẫn vô tuyến số",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "841021",
     "name": "Kiến trúc máy tính",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "841022",
     "name": "Hệ điều hành",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "841044",
     "name": "Phương pháp lập trình hướng đối tượng",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841047",
     "name": "Công nghệ phần mềm",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841070",
     "name": "Thực tập tốt nghiệp (DCT)",
-    "credits": 6,
+    "credits": 6
   },
   {
     "courseId": "841072",
     "name": "Các công nghệ lập trình hiện đại",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "841099",
     "name": "Khóa luận tốt nghiệp (DCT)",
-    "credits": 10,
+    "credits": 10
   },
   {
     "courseId": "841109",
     "name": "Cơ sở dữ liệu",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841111",
     "name": "Phân tích thiết kế hướng đối tượng",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841120",
     "name": "An toàn và bảo mật dữ liệu trong HTTT",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "841302",
     "name": "Cơ sở lập trình",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841310",
     "name": "Lý thuyết đồ thị",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "841312",
     "name": "Tiếng Anh B1 - 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "841314",
     "name": "Tiếng Anh B2 - 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "841403",
     "name": "Cấu trúc rời rạc",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841408",
     "name": "Kiểm thử phần mềm",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841409",
     "name": "Mạng máy tính nâng cao",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841411",
     "name": "Quản trị mạng",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841417",
     "name": "Mỹ thuật ứng dụng trong CNTT",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "841419",
     "name": "Lập trình web và ứng dụng",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841422",
     "name": "Ngôn ngữ lập trình Python",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841423",
     "name": "Ngôn ngữ lập trình C#",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841429",
     "name": "Cơ sở dữ liệu nâng cao",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841431",
     "name": "Quản lý dự án phần mềm",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841432",
     "name": "Phân tích dữ liệu",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841434",
     "name": "Thương mại điện tử và ứng dụng",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841443",
     "name": "Phân tích mạng truyền thông xã hội",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "841444",
     "name": "Quản trị và bảo trì hệ thống",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "841445",
     "name": "Hệ thống ảo và khả năng mở rộng dữ liệu",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "841448",
     "name": "Xử lý ngôn ngữ tự nhiên",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841449",
     "name": "Nhập môn máy học",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841452",
     "name": "Tính toán thông minh",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "841453",
     "name": "Phân tích và nhận dạng mẫu",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841457",
     "name": "Học sâu",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841458",
     "name": "Trí tuệ nhân tạo nâng cao",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841461",
     "name": "Nhập môn phát triển ứng dụng trên thiết bị di động",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841467",
     "name": "Công nghệ .NET",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841468",
     "name": "Chuyên đề J2EE",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841476",
     "name": "Đồ án chuyên ngành (ngành CNTT, ngành KTPM)",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841479",
     "name": "Kiến trúc phần mềm",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841481",
     "name": "Thiết kế giao diện",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841482",
     "name": "Seminar chuyên đề (ngành CNTT, ngành KTPM)",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "841501",
     "name": "Nhập môn công nghệ thông tin và truyền thông",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "861301",
     "name": "Triết học Mác - Lênin",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "861303",
     "name": "Chủ nghĩa xã hội khoa học",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "861304",
     "name": "Tư tưởng Hồ Chí Minh",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "861305",
     "name": "Lịch sử Đảng Cộng sản Việt Nam",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "835305",
     "name": "Văn hóa Phương Đông - Phương Tây",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "835308",
     "name": "Du lịch Quốc tế",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "835310",
     "name": "Hệ thống di tích và danh thắng Việt Nam",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "835314",
     "name": "Thiết kế và Điều hành chương trình du lịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "835404",
     "name": "Quản trị kinh doanh khách sạn, nhà hàng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857402",
     "name": "Tiến trình lịch sử Việt Nam",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857407",
     "name": "Tâm lý và kỹ năng giao tiếp du lịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857412",
     "name": "Quản trị nguồn nhân lực du lịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857414",
     "name": "Tiếng Anh chuyên ngành du lịch 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857415",
     "name": "Tiếng Anh chuyên ngành du lịch 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857417",
     "name": "Tiếng Anh chuyên ngành du lịch 4",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857421",
     "name": "Tuyến điểm du lịch 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857422",
     "name": "Thực tế hướng dẫn du lịch 1",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "857424",
     "name": "Nghiệp vụ hướng dẫn du lịch",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "857425",
     "name": "Quản lý phát triển sản phẩm du lịch",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "857426",
     "name": "Thực tế hướng dẫn du lịch 2",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "857433",
     "name": "Tổng quan dịch vụ lưu trú",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "857435",
     "name": "Quản lý dịch vụ giải trí du lịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857446",
     "name": "Marketing trong kinh doanh lữ hành",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857447",
     "name": "Marketing trong nhà hàng - khách sạn",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857501",
     "name": "Tổng quan du lịch",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "857502",
     "name": "Địa lý du lịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "865006",
     "name": "Pháp luật đại cương",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815020",
     "name": "Tập hợp - Lôgic",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815022",
     "name": "Sinh lý trẻ em lứa tuổi tiểu học",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815023",
     "name": "Kiểm tra đánh giá kết quả giáo dục ở Tiểu học",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815050",
     "name": "Tiếng Việt 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "815054",
     "name": "Số học",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "815058",
     "name": "Lý luận văn học",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815065",
     "name": "Cơ sở Khoa học Xã hội",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815095",
     "name": "Rèn kĩ năng sử dụng Tiếng Việt",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815104",
     "name": "Đạo đức và PPGD Đạo đức",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "815107",
     "name": "Phát triển NN cho HSTH trên bình diện trường từ vựng ngữ nghĩa",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815108",
     "name": "Thực tế bộ môn",
-    "credits": 1,
+    "credits": 1
   },
   {
     "courseId": "815315",
     "name": "PPDH Toán 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "815320",
     "name": "Giáo dục nghệ thuật 1 (Âm nhạc)",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "815327",
     "name": "Rèn luyện Nghiệp vụ Sư phạm 1",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815329",
     "name": "Thực hành sư phạm 3",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815404",
     "name": "PPDH Tiếng Việt 2",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "815405",
     "name": "Tổ chức hoạt động dạy học và giáo dục ở trường tiểu học",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815407",
     "name": "Công nghệ và PPDH Công nghệ",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "815412",
     "name": "Phương pháp NCKH ngành GDTH",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "863003",
     "name": "TLH lứa tuổi Tiểu học & TLH sư phạm",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "863005",
     "name": "Giáo dục học đại cương",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "863011",
     "name": "Quản lý HCNN & QL Ngành GD-ĐT (GDTH)",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "832006",
     "name": "Kinh tế lượng (ngành TCNH, ngành KT)",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832009",
     "name": "Hệ thống thông tin kế toán 3",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832024",
     "name": "Quản trị học căn bản",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "832025",
     "name": "AV chuyên ngành kế toán",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832033",
     "name": "Thị trường tài chính",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832051",
     "name": "Kế toán tài chính 2",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "832056",
     "name": "Kiểm toán báo cáo tài chính",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832057",
     "name": "Kế toán Mỹ",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832060",
     "name": "P/tích b/cáo tài chính doanh nghiệp",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832065",
     "name": "Thanh toán quốc tế",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832105",
     "name": "Kinh tế vi mô",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832107",
     "name": "Lý thuyết tài chính tiền tệ",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832108",
     "name": "Kế toán chi phí",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "832109",
     "name": "Hệ thống thông tin kế toán 1",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "832110",
     "name": "Chuẩn mực kế toán",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832111",
     "name": "Kế toán hành chính sự nghiệp",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832112",
     "name": "Kế toán ngân hàng thương mại",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832306",
     "name": "Hệ thống kiểm soát nội bộ",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832401",
     "name": "Phương pháp nghiên cứu khoa học trong kế toán",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832402",
     "name": "Kế toán quản trị",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832502",
     "name": "Principle of Management",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "834063",
     "name": "Quản lý tài nguyên nước",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834303",
     "name": "Hóa học phân tích",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834309",
     "name": "GIS ứng dụng trong môi trường",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834313",
     "name": "Quản lý môi trường",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834314",
     "name": "Độc học môi trường",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834401",
     "name": "Hoá môi trường",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "834405",
     "name": "Thực hành kỹ thuật phân tích môi trường 1",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "834411",
     "name": "Tiếng Anh chuyên ngành môi trường 1",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "834415",
     "name": "Phương pháp nghiên cứu khoa học trong môi trường",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834418",
     "name": "Đánh giá tác động và rủi ro môi trường",
-    "credits": 5,
+    "credits": 5
   },
   {
     "courseId": "834455",
     "name": "Thực hành vi sinh môi trường",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "834456",
     "name": "Thực hành hóa học phân tích",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "834460",
     "name": "Quản lý chất lượng môi trường",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834461",
     "name": "Công nghệ môi trường",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "833006",
     "name": "Kinh tế lượng (ngành QTKD)",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "833020",
     "name": "Kinh tế vi mô",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "833054",
     "name": "Quản trị doanh nghiệp",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "833075",
     "name": "Nghệ thuật lãnh đạo",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "833351",
     "name": "Kinh tế quốc tế",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "833353",
     "name": "Tiếng Anh chuyên ngành 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "833354",
     "name": "Tiếng Anh chuyên ngành 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "833355",
     "name": "Tiếng Anh chuyên ngành 3",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "833357",
     "name": "Đạo đức kinh doanh và văn hóa doanh nghiệp",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "833358",
     "name": "Đàm phán trong kinh doanh",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "833361",
     "name": "Quản trị Marketing quốc tế",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "833362",
     "name": "Quản trị dự án đầu tư quốc tế",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "833364",
     "name": "Thanh toán quốc tế",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "833365",
     "name": "Quản trị rủi ro trong kinh doanh quốc tế",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "833367",
     "name": "Bảo hiểm trong kinh doanh",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "833402",
     "name": "Quản trị thương hiệu",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "833403",
     "name": "Khởi nghiệp",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "833450",
     "name": "Thương mại điện tử",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "867007",
     "name": "Toán cao cấp C1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "867009",
     "name": "Quản trị học",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "849010",
     "name": "Điện tử công suất",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "849402",
     "name": "Thực hành máy điện và khí cụ điện",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "849404",
     "name": "Truyền động điện và vận hành hệ thống điện",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "849406",
     "name": "Thiết kế nhà máy điện và trạm biến áp",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "849407",
     "name": "Thiết kế năng lượng gió và mặt trời",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "849413",
     "name": "Kỹ thuật chiếu sáng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "849416",
     "name": "Chuyên đề tốt nghiệp kỹ thuật điện 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "849417",
     "name": "Chuyên đề tốt nghiệp kỹ thuật điện 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "849418",
     "name": "Chuyên đề tốt nghiệp kỹ thuật điện 3",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841110",
     "name": "Cơ sở trí tuệ nhân tạo",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "843022",
     "name": "Lịch sử nhà nước và pháp luật Việt Nam",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "843026",
     "name": "Lịch sử nhà nước và pháp luật thế giới",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "843032",
     "name": "Luật Hình sự 1 - Phần chung",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "843034",
     "name": "Luật Tố tụng hình sự",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "843038",
     "name": "Luật Đất đai",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "843049",
     "name": "Pháp luật về An sinh xã hội",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "843056",
     "name": "Pháp luật về công chứng, chứng thực",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "843069",
     "name": "Lý luận chung về nhà nước và pháp luật",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "843301",
     "name": "Luật Tài chính - ngân hàng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "843307",
     "name": "Luật Thương mại 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "843402",
     "name": "Phương pháp nghiên cứu khoa học ngành Luật",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "843404",
     "name": "Luật dân sự 1 - Những vấn đề chung của pháp luật dân sự",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "843405",
     "name": "Luật Hành chính 2",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "843407",
     "name": "Luật Dân sự 3 - Nghĩa vụ và hợp đồng, trách nhiệm bồi thường thiệt hại ngoài hợp đồng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "843410",
     "name": "Luật sở hữu trí tuệ",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "843411",
     "name": "Công pháp quốc tế",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "843413",
     "name": "Kỹ thuật soạn thảo văn bản",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "843414",
     "name": "Kỹ năng hòa giải ngoài tố tụng",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "843416",
     "name": "Pháp luật về môi trường",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "843501",
     "name": "Tâm lý học pháp lý",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "843502",
     "name": "Phương pháp nghiên cứu khoa học ngành Luật",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "844053",
     "name": "Luật Thương mại quốc tế",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "865005",
     "name": "Logic học",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "813002",
     "name": "Tiếng Trung 2",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "813003",
     "name": "Tiếng Trung 3",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813033",
     "name": "Ngữ nghĩa học",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813066",
     "name": "Viết nghiên cứu",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813075",
     "name": "Phân tích diễn ngôn",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "813076",
     "name": "Ngôn ngữ học xã hội",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "813077",
     "name": "Giao tiếp liên văn hóa",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813103",
     "name": "Tiếng Pháp 2",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "813104",
     "name": "Tiếng Pháp 3",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813305",
     "name": "Ngữ pháp chức năng",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "813310",
     "name": "Kỹ năng Biên dịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813402",
     "name": "Tiếng Hàn 2",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "813403",
     "name": "Tiếng Hàn 3",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813404",
     "name": "Nghe - Nói 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813406",
     "name": "Nghe - Nói 3",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813408",
     "name": "Đọc - Viết 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813410",
     "name": "Đọc - Viết 3",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813413",
     "name": "Ngữ âm - âm vị học",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813414",
     "name": "Văn hóa Anh Mỹ",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813415",
     "name": "Văn học Anh Mỹ",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "838074",
     "name": "Quản trị du lịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "838112",
     "name": "Nghiệp vụ thư ký",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "838301",
     "name": "Tổng quan du lịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "838303",
     "name": "Tiếng Anh trong thuyết minh du lịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "838307",
     "name": "Tiếng Anh trong nhà hàng khách sạn",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "838403",
     "name": "Thực tế chuyên môn 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "838405",
     "name": "Tiếng Anh giao tiếp thương mại (ngành NN Anh)",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "838406",
     "name": "Quản trị sự kiện",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "838407",
     "name": "Địa lý du lịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "838502",
     "name": "Văn hóa các nước nói tiếng Anh",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846051",
     "name": "Đại cương về Quản lý & Q/lý GD",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846079",
     "name": "Thực tế 1",
-    "credits": 1,
+    "credits": 1
   },
   {
     "courseId": "846080",
     "name": "Thực tế 2",
-    "credits": 1,
+    "credits": 1
   },
   {
     "courseId": "846302",
     "name": "Hệ thống giáo dục quốc dân và bộ máy QLGD",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846312",
     "name": "Xây dựng kế hoạch phát triển cơ sở giáo dục",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846314",
     "name": "Kiểm tra và thanh tra cơ sở giáo dục",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846317",
     "name": "Quản lí tài chính và tài sản trong cơ sở giáo dục",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846318",
     "name": "Quản lí hoạt động dạy học và giáo dục trong cơ sở giáo dục",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846319",
     "name": "Ứng dụng CNTT trong quản lý giáo dục",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846320",
     "name": "Nghiệp vụ quản lí văn phòng cơ sở giáo dục",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846322",
     "name": "Văn bản QLNN và kỹ thuật soạn thảo văn bản",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846330",
     "name": "Phối hợp các lực lượng GD trong và ngoài cơ cở giáo dục",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846332",
     "name": "Quản lí ngành giáo dục mầm non",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846333",
     "name": "Quản lí ngành giáo dục phổ thông",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846401",
     "name": "Giáo dục giá trị sống và kĩ năng sống",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846404",
     "name": "Làm việc nhóm - Tổ chức sự kiện",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "846501",
     "name": "Chiến lược phát triển giáo dục",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846503",
     "name": "Tâm lý học giáo dục",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "833029",
     "name": "Quản trị tài chính",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "833030",
     "name": "Lý thuyết tài chính tiền tệ",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "833057",
     "name": "Quản trị rủi ro",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "833058",
     "name": "Kế toán quản trị (ngành QTKD)",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "833062",
     "name": "Quản trị chất lượng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "833069",
     "name": "Thuế",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "833104",
     "name": "Tiếng Anh giao tiếp thương mại (ngành QTKD)",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "833198",
     "name": "Thực tập tốt nghiệp (DQK)",
-    "credits": 5,
+    "credits": 5
   },
   {
     "courseId": "833306",
     "name": "Thương mại điện tử",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "833312",
     "name": "Tâm lý học quản trị kinh doanh",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "833314",
     "name": "Quản trị dự án đầu tư",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "833404",
     "name": "Quản trị bán hàng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "833405",
     "name": "Quan hệ công chúng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "833311",
     "name": "Marketing căn bản",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "859401",
     "name": "Quản trị nguồn nhân lực trong lĩnh vực nhà hàng và dịch vụ ăn uống",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854001",
     "name": "Quan hệ công chúng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854015",
     "name": "Tiếng Anh chuyên ngành 1",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "854017",
     "name": "Tiếng Anh chuyên ngành 3",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "854024",
     "name": "Quan hệ quốc tế Châu Á – Thái Bình Dương",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854301",
     "name": "Tiếng Trung 1",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "854303",
     "name": "Tiếng Trung 3",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854307",
     "name": "Nhập môn Quốc tế học",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854331",
     "name": "Marketing trong kinh doanh quốc tế",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854336",
     "name": "Phương pháp NCKH ngành Quốc tế học",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "854405",
     "name": "Truyền thông đối ngoại",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854407",
     "name": "Công tác ngoại giao",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854409",
     "name": "Kỹ năng phiên dịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854415",
     "name": "Nghiệp vụ lãnh sự và lễ tân ngoại giao",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854419",
     "name": "Thực tế chuyên môn 3",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "854422",
     "name": "Nghiệp vụ truyền thông",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854425",
     "name": "Địa chính trị",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854501",
     "name": "Lịch sử Quan hệ quốc tế",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "865002",
     "name": "Cơ sở văn hóa Việt Nam",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816079",
     "name": "Thực tế chuyên môn",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816402",
     "name": "Lịch sử âm nhạc Việt Nam",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "816405",
     "name": "Chỉ huy phổ thông",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "816408",
     "name": "Lý thuyết âm nhạc cơ bản",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "816409",
     "name": "Tin học âm nhạc",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "816412",
     "name": "Múa",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "816413",
     "name": "Hợp xướng 1",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816417",
     "name": "Dàn dựng chương trình nghệ thuật tổng hợp",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "816419",
     "name": "Nhạc cụ 2",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816421",
     "name": "Nhạc cụ 4",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816423",
     "name": "Nhạc cụ 6",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816426",
     "name": "Thanh nhạc 2",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816428",
     "name": "Thanh nhạc 4",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816430",
     "name": "Thanh nhạc 6",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816431",
     "name": "Kí xướng âm 1",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816433",
     "name": "Ký xướng âm 3",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816435",
     "name": "Ký xướng âm 5",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816437",
     "name": "Nhạc khí đại cương",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "816439",
     "name": "Phương pháp luận NCKH giáo dục Âm nhạc",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816441",
     "name": "Hòa âm 1",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816461",
     "name": "Phương pháp dạy học âm nhạc 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "847401",
     "name": "Hát dân ca",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "863516",
     "name": "Tâm lí học (C)",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "811054",
     "name": "Địa lý kinh tế - xã hội đại cương 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "811055",
     "name": "Địa lý tự nhiên các lục địa 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "811057",
     "name": "Địa lý tự nhiên Việt Nam 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "811076",
     "name": "Địa lý du lịch Việt Nam",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "811079",
     "name": "Thực hành sư phạm 2",
-    "credits": 1,
+    "credits": 1
   },
   {
     "courseId": "811080",
     "name": "Thực hành sư phạm 3",
-    "credits": 1,
+    "credits": 1
   },
   {
     "courseId": "811301",
     "name": "Địa lí tự nhiên Việt Nam 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "811401",
     "name": "Bản đồ học",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "811402",
     "name": "Địa lí tự nhiên đại cương 1",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "811403",
     "name": "Địa lí tự nhiên đại cương 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "811405",
     "name": "Địa lí kinh tế - xã hội đại cương 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "811407",
     "name": "Địa lí kinh tế - xã hội thế giới 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "811408",
     "name": "Địa lí kinh tế - xã hội Việt Nam 1",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "811410",
     "name": "Thực tế chuyên môn 2",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "811411",
     "name": "Hệ thống thông tin địa lí (GIS)",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "811417",
     "name": "Lí luận dạy học Địa lí",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "811419",
     "name": "Phương pháp dạy học địa lí 2",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "811420",
     "name": "Phương pháp NCKH ngành Sư phạm Địa lí",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "811421",
     "name": "Dân số và phát triển",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "811821",
     "name": "Việt Nam hội nhập và phát triển",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "803052",
     "name": "Thực hành hóa vô cơ",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "803057",
     "name": "Thực hành hóa hữu cơ",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "803059",
     "name": "Hóa phân tích 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "803062",
     "name": "TH hóa phân tích định lượng",
-    "credits": 1,
+    "credits": 1
   },
   {
     "courseId": "803102",
     "name": "Hóa học đại cương 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "803105",
     "name": "Hóa vô cơ 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "803124",
     "name": "Thực hành sư phạm THPT 1",
-    "credits": 1,
+    "credits": 1
   },
   {
     "courseId": "803301",
     "name": "Toán cho hóa",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "803303",
     "name": "Hóa hữu cơ 1",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "803317",
     "name": "Lý luận và phương pháp dạy học hóa học THPT1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "803401",
     "name": "Phương pháp NCKH ngành Sư phạm hóa học",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "803402",
     "name": "Hóa lí 2",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "803405",
     "name": "Các phương pháp phân tích hóa lý và thực hành",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "803412",
     "name": "Phương pháp dạy học tích cực",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "803413",
     "name": "Cơ sở lý thuyết hóa học",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "803420",
     "name": "Hóa học phức chất",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "863515",
     "name": "Tâm lí học (B)",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "864003",
     "name": "Vật lí đại cương",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "802135",
     "name": "Thiên văn học đại cương",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "821302",
     "name": "Lý luận dạy học môn Khoa học tự nhiên",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "821313",
     "name": "Tổ chức hoạt động dạy học môn KHTN ở trường phổ thông",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "821331",
     "name": "Kiểm tra và đánh giá trong dạy học môn KHTN",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "821402",
     "name": "Toán cho sư phạm khoa học tự nhiên 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "821407",
     "name": "Động vật học",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "821408",
     "name": "Thí nghiệm cơ sở vật lí",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "821409",
     "name": "Hóa lý",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "821410",
     "name": "Phương pháp NCKH ngành Sư phạm Khoa học Tự nhiên",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "821412",
     "name": "Giải phẫu sinh lý người",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "821415",
     "name": "Hoá vô cơ",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "821418",
     "name": "Thực tế bộ môn",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "821426",
     "name": "Sinh thái học và đa dạng sinh học",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "821428",
     "name": "Khoa học tự nhiên và đời sống",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "821501",
     "name": "Hóa học đại cương",
-    "credits": 5,
+    "credits": 5
   },
   {
     "courseId": "821508",
     "name": "Lý luận dạy học môn Khoa học tự nhiên",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "863514",
     "name": "Tâm lí học (A)",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "810065",
     "name": "Thực tế chuyên môn 1",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "810066",
     "name": "Thực tế chuyên môn 2",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "810082",
     "name": "Thực hành sư phạm 1",
-    "credits": 1,
+    "credits": 1
   },
   {
     "courseId": "810101",
     "name": "Lịch sử Việt Nam từ 1858 đến 1945",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "810401",
     "name": "Nhập môn và phương pháp luận Sử học",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "810406",
     "name": "Lịch sử thế giới nguyên thủy và cổ đại",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "810408",
     "name": "Lịch sử thế giới cận đại",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "810410",
     "name": "Lịch sử Việt Nam từ nguồn gốc đến thế kỉ X",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "810412",
     "name": "Tiếng Anh chuyên ngành Lịch sử",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "810413",
     "name": "Địa lí học Lịch sử",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "810414",
     "name": "Khu vực học và ứng dụng trong nghiên cứu giáo dục địa phương",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "810421",
     "name": "Hệ thống phương pháp và các hình thức tổ chức dạy học Lịch sử",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "810422",
     "name": "Hoạt động trải nghiệm và dạy học dự án môn Lịch sử",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "810423",
     "name": "Tôn giáo học và một số tôn giáo lớn trên thế giới",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "810424",
     "name": "Ứng dụng Công nghệ thông tin và sử dụng đồ dùng trực quan trong dạy học Lịch sử",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "810431",
     "name": "Phương pháp NCKH ngành Sư phạm Lịch sử",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "810501",
     "name": "Nhân học và Khảo cổ học đại cương",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "822301",
     "name": "Nhập môn Lịch sử - Địa lí",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "822303",
     "name": "Lịch sử Việt Nam cổ trung đại",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "822304",
     "name": "Địa lí tự nhiên đại cương",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "822305",
     "name": "Địa lí kinh tế xã hội đại cương",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "822309",
     "name": "Bản đồ và hệ thống thông tin Địa lí",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "822310",
     "name": "Văn minh Việt Nam trong tiến trình lịch sử",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "822314",
     "name": "Địa lí tự nhiên Việt Nam",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "822316",
     "name": "Địa lí các vùng kinh tế Việt Nam",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "822317",
     "name": "Địa lí kinh tế - xã hội các châu lục",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "822319",
     "name": "Thực tế chuyên môn 1",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "822320",
     "name": "Thực tế chuyên môn 2",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "822326",
     "name": "Lịch sử hình thành và phát triển các tổ chức hợp tác quốc tế và khu vực",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "822328",
     "name": "Lí luận và phương pháp dạy học Lịch sử",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "822331",
     "name": "Hoạt động trải nghiệm trong dạy học Lịch sử",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "822405",
     "name": "Địa phương học",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "822406",
     "name": "Biến đổi khí hậu và phòng chống thiên tai",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "822407",
     "name": "Thực hành sư phạm 1",
-    "credits": 1,
+    "credits": 1
   },
   {
     "courseId": "822409",
     "name": "Phương pháp NCKH ngành sư phạm Lịch sử",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "822504",
     "name": "Lịch sử thế giới cổ - trung đại",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "809021",
     "name": "Dẫn luận ngôn ngữ học",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "809064",
     "name": "Thực tế chuyên môn",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "809121",
     "name": "Tác phẩm và Thể loại VH",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "809306",
     "name": "Khuynh hướng văn học và loại hình tác giả văn học trung đại Việt Nam",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "809311",
     "name": "Ngữ pháp tiếng Việt từ lí thuyết đến sử dụng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "809315",
     "name": "Văn bản Hán - Nôm trong văn học Việt Nam theo thể loại",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "809323",
     "name": "Tiếng Việt trong nhà trường",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "809401",
     "name": "Lược khảo về chữ Hán và văn bản Hán văn Trung Hoa",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "809402",
     "name": "Các thể loại và tác gia tiêu biểu văn học Đông Âu-Nga",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "809404",
     "name": "Văn học châu Á đương đại",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "809408",
     "name": "Phong cách học- Ngữ dụng học",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "809409",
     "name": "Hệ thống thể loại và tác giả tiêu biểu Văn học Việt Nam hiện đại từ 1945 đến 1975",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "809414",
     "name": "Phát huy tính tích cực của học sinh trong dạy học Ngữ văn",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "809420",
     "name": "Phân tích chương trình môn Ngữ văn ở THCS",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "809422",
     "name": "Phát triển năng lực cho học sinh trong dạy học Ngữ văn",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "809423",
     "name": "Phương pháp dạy học Ngữ văn 1",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "809451",
     "name": "Thực hành sư phạm 1",
-    "credits": 1,
+    "credits": 1
   },
   {
     "courseId": "809501",
     "name": "Nhập môn lý luận văn học",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "809504",
     "name": "Văn học dân gian Việt Nam",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "806023",
     "name": "PPDH Sinh học THPT 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "806050",
     "name": "Động vật học 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "806053",
     "name": "Thực vật học 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "806064",
     "name": "PPDH Sinh học THPT 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "806067",
     "name": "Bài tập di truyền",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "806302",
     "name": "Sinh học tế bào",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "806402",
     "name": "Thống kê Sinh học",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "806404",
     "name": "Sinh lý học thực vật",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "806406",
     "name": "Sinh lý người và động vật",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "806407",
     "name": "Sinh thái học và môi trường",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "806408",
     "name": "Sinh học phân tử",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "806409",
     "name": "Nông nghiệp sạch và an toàn thực phẩm",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "806410",
     "name": "Phương pháp nghiên cứu khoa học ngành sư phạm sinh học",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "806411",
     "name": "Phân tích và phát triển chương trình Sinh học THPT",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "806416",
     "name": "Đa dạng và kiểm soát sinh học",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "806417",
     "name": "Tập tính học động vật và sinh lý thần kinh cấp cao",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "864004",
     "name": "Hóa học đại cương",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813307",
     "name": "Kĩ năng nói trước công chúng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813312",
     "name": "Lý luận dạy học tiếng Anh 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813418",
     "name": "Phương pháp dạy học tiếng Anh 3",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813421",
     "name": "Tiếng Anh trung học cơ sở",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813425",
     "name": "Kiểm tra đánh giá ngoại ngữ",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813426",
     "name": "Phương pháp nghiên cứu khoa học ngành Sư phạm Tiếng Anh",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "802023",
     "name": "Dao động và sóng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "802053",
     "name": "Điện động lực học",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "802103",
     "name": "Nhiệt học",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "802114",
     "name": "Thực tế bộ môn",
-    "credits": 1,
+    "credits": 1
   },
   {
     "courseId": "802118",
     "name": "Khoa học vật liệu và công nghệ nano",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "802301",
     "name": "Cơ học",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "802302",
     "name": "Toán cho vật lý",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "802303",
     "name": "Phương trình vật lý - toán",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "802305",
     "name": "Hướng dẫn giải bài tập vật lý THPT",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "802402",
     "name": "Thí nghiệm Vật lý đại cương",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "802403",
     "name": "Cơ học lượng tử",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "802405",
     "name": "Phân tích chương trình vật lý THPT",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "802407",
     "name": "Thực hành sư phạm THPT 2",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "802408",
     "name": "Kiểm tra đánh giá trong dạy học Vật lý THPT",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "802415",
     "name": "Phương pháp nghiên cứu khoa học ngành Sư phạm Vật lý",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "832059",
     "name": "Tài chính doanh nghiệp 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832113",
     "name": "Tài chính công",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "842008",
     "name": "Hệ thống thông tin tài chính",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "842009",
     "name": "Hệ thống thông tin ngân hàng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "842025",
     "name": "Anh văn tài chính ngân hàng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "842051",
     "name": "Marketing ngân hàng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "842059",
     "name": "Quản trị rủi ro tài chính",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "842061",
     "name": "Quản trị ngân hàng thương mại",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "842065",
     "name": "Nghiệp vụ ngân hàng trung ương",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "842111",
     "name": "Thiết lập và thẩm định dự án đầu tư",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "842113",
     "name": "Kinh doanh xuất nhập khẩu",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "842301",
     "name": "Kế toán tài chính",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "842306",
     "name": "PPNC khoa học trong ngành Tài chính - Ngân hàng",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "842402",
     "name": "Tín dụng và thẩm định tín dụng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "853002",
     "name": "Giải phẫu và sinh lí hoạt động thần kinh cấp cao",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "853003",
     "name": "Lịch sử tâm lí học",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "853011",
     "name": "Tâm lí học giao tiếp",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "853013",
     "name": "Chẩn đoán tâm lí",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "853018",
     "name": "Tâm lí học tham vấn",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "853019",
     "name": "Tâm bệnh học",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "853029",
     "name": "Tham vấn hướng nghiệp",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "853030",
     "name": "Tham vấn cho trẻ chậm phát triển và khuyết tật",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "853032",
     "name": "Tham vấn cho trẻ năng khiếu và phát triển sớm",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "853098",
     "name": "Thực tập tốt nghiệp (DTL)",
-    "credits": 9,
+    "credits": 9
   },
   {
     "courseId": "853401",
     "name": "Phương pháp nghiên cứu Tâm lí học",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "853404",
     "name": "Tâm lí học lao động",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "853407",
     "name": "Tâm lí học tôn giáo và dân tộc",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "865508",
     "name": "Thống kê trong Khoa học xã hội",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816403",
     "name": "Kiến thức âm nhạc tổng hợp",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "847403",
     "name": "Lịch sử nghệ thuật Thanh nhạc",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "847408",
     "name": "Thanh nhạc chuyên ngành 5",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "847410",
     "name": "Thanh nhạc chuyên ngành 7",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "847461",
     "name": "Guitar phổ thông 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "835022",
     "name": "Tổng quan văn hóa - du lịch Việt Nam",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "835025",
     "name": "Nhập môn Việt Nam học",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "835029",
     "name": "Phát triển du lịch bền vững",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "835106",
     "name": "Marketing du lịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "835114",
     "name": "Nghiệp vụ hướng dẫn du lịch",
-    "credits": 5,
+    "credits": 5
   },
   {
     "courseId": "835117",
     "name": "Nghiệp vụ nhà hàng",
-    "credits": 5,
+    "credits": 5
   },
   {
     "courseId": "835311",
     "name": "Vùng văn hóa Việt Nam",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "835313",
     "name": "Văn hóa ẩm thực",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "835318",
     "name": "Thực tế chuyên môn 2",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "835322",
     "name": "Tuyến điểm du lịch Việt Nam",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "835325",
     "name": "Tiếng Anh giao tiếp du lịch 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "835327",
     "name": "PPNC khoa học trong ngành Việt Nam học",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "835401",
     "name": "Lịch sử Việt Nam",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "835403",
     "name": "Quản trị kinh doanh lữ hành",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857411",
     "name": "Văn hóa trong hoạt động du lịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "849008",
     "name": "Máy điện",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "849401",
     "name": "Khí cụ điện và trang bị điện",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850008",
     "name": "Vật lý A2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850302",
     "name": "Kỹ thuật vi điều khiển",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850305",
     "name": "Truyền số liệu và mạng máy tính",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850310",
     "name": "Thiết kế vi mạch số",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850313",
     "name": "Lập trình mạng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850350",
     "name": "Phương pháp nghiên cứu khoa học chuyên ngành kỹ thuật",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "850403",
     "name": "Linh kiện và mạch điện tử 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850405",
     "name": "An toàn điện và an toàn lao động",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850409",
     "name": "Kỹ thuật đo lường và cảm biến",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850410",
     "name": "CAD và ứng dụng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850413",
     "name": "Hệ thống nhúng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850414",
     "name": "Điện tử y sinh",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850416",
     "name": "Robot công nghiệp",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850420",
     "name": "Xử lý số tín hiệu",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850435",
     "name": "Kỹ thuật phát thanh và truyền hình số",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834214",
     "name": "Các quá trình sinh học trong kỹ thuật môi trường",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834215",
     "name": "Các quá trình hóa - lý trong kỹ thuật môi trường",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834217",
     "name": "Kỹ thuật xử lý khí thải",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834341",
     "name": "Nguyên lí và vận hành hệ thống xử lí nước và nước thải",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834371",
     "name": "An toàn lao động và vệ sinh môi trường công nghiệp",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834403",
     "name": "Thực hành công nghệ sinh học môi trường",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "834406",
     "name": "Vẽ kỹ thuật môi trường",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "834417",
     "name": "Ứng dụng vi tảo trong xử lý môi trường",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834430",
     "name": "Kỹ thuật xử lý nước thải",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "834434",
     "name": "Đồ án PP oxy hóa nâng cao trong xử lý nước thải",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "834435",
     "name": "Kỹ thuật xử lý chất thải rắn và chất thải nguy hại",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "834450",
     "name": "Thực tế chuyên môn 1",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "850419",
     "name": "Lý thuyết thông tin",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850421",
     "name": "Truyền sóng và anten",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850422",
     "name": "Thông tin quang",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "850425",
     "name": "Thực hành chuyên ngành điện tử viễn thông",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "850427",
     "name": "Mạng cảm biến không dây và ứng dụng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "852402",
     "name": "Mô hình dịch vụ mạng thế hệ sau NGN",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857403",
     "name": "Kiến trúc, mỹ thuật Việt Nam",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857404",
     "name": "Phương pháp NCKH ngành Du lịch",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "857405",
     "name": "Luật và các văn bản quy phạm pháp luật trong du lịch",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "857406",
     "name": "Thực tế chuyên môn 1",
-    "credits": 1,
+    "credits": 1
   },
   {
     "courseId": "857413",
     "name": "Quản trị rủi ro trong du lịch",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "857416",
     "name": "Tiếng Anh chuyên ngành du lịch 3",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857418",
     "name": "Tổ chức sự kiện du lịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857419",
     "name": "Ứng dụng CNTT trong du lịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857423",
     "name": "Tuyến điểm du lịch 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857427",
     "name": "Thực tập tốt nghiệp (DDL)",
-    "credits": 6,
+    "credits": 6
   },
   {
     "courseId": "857428",
     "name": "Quản lý an toàn cho du khách",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "857429",
     "name": "Quản lý điểm đến du lịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857430",
     "name": "Văn hóa doanh nghiệp du lịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857431",
     "name": "Lập dự án kinh doanh du lịch",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "857432",
     "name": "Kỹ năng hoạt náo trong du lịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857434",
     "name": "Quản lý ẩm thực",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857436",
     "name": "Quản trị dự án đầu tư khách sạn – nhà hàng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857437",
     "name": "Nghiệp vụ Lễ tân",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857505",
     "name": "Tôn giáo, tín ngưỡng và phong tục Việt Nam",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "857506",
     "name": "Du lịch bền vững",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "819052",
     "name": "Phòng bệnh trẻ em",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "819086",
     "name": "Thực hành sư phạm 3",
-    "credits": 1,
+    "credits": 1
   },
   {
     "courseId": "819087",
     "name": "Thực hành sư phạm 4",
-    "credits": 1,
+    "credits": 1
   },
   {
     "courseId": "819102",
     "name": "Tâm lí học mầm non 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "819103",
     "name": "Vệ sinh và dinh dưỡng trẻ em",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "819104",
     "name": "Giao tiếp sư phạm mầm non",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "819106",
     "name": "PP giáo dục âm nhạc (ĐH)",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "819107",
     "name": "PP giáo dục thể chất (ĐH)",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "819308",
     "name": "Phương pháp phát triển ngôn ngữ cho trẻ mầm non",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "819401",
     "name": "Giáo dục học mầm non",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "819408",
     "name": "Đánh giá trong GD Mầm non",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "819409",
     "name": "Dàn dựng chương trình văn nghệ cho trẻ mầm non",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "819413",
     "name": "PPNC khoa học giáo dục mầm non",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "819417",
     "name": "GD giá trị sống và kỹ năng sống cho trẻ MN",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "819418",
     "name": "Giáo dục hòa nhập",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "863014",
     "name": "Thực tập sư phạm 2",
-    "credits": 6,
+    "credits": 6
   },
   {
     "courseId": "863115",
     "name": "Thực tập sư phạm 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "815021",
     "name": "Giáo dục môi trường",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815053",
     "name": "Cấu trúc đại số",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815055",
     "name": "Phương pháp dạy học Toán 1",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815059",
     "name": "Đại cương văn học Việt Nam",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815066",
     "name": "Cơ sở Khoa học Tự nhiên",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815079",
     "name": "Từ Hán Việt",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815087",
     "name": "B/dưỡng n/lực cảm thụ VH cho HS tiểu học",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815103",
     "name": "ứng dụng xác suất thống kê ở trường Tiểu học",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815112",
     "name": "Cơ sở đại số ở tiểu học",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815119",
     "name": "Văn học thiếu nhi",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "815321",
     "name": "Giáo dục nghệ thuật 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "815322",
     "name": "Ứng dụng CNTT trong dạy học ở Tiểu học",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815326",
     "name": "Dạy học tích hợp trong các môn Tự nhiên - Xã hội",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815328",
     "name": "Rèn luyện Nghiệp vụ Sư phạm 2",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815402",
     "name": "PPDH Toán 3",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "815403",
     "name": "PPDH Tiếng Việt 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "815406",
     "name": "Phát triển năng lực toán học của học sinh Tiểu học",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815410",
     "name": "Hoạt động Trải nghiệm",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "815411",
     "name": "PPDH Tự nhiên - Xã hội",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "815506",
     "name": "Tiếng Việt 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832008",
     "name": "Hệ thống thông tin kế toán 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832050",
     "name": "Kế toán tài chính 1",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "832055",
     "name": "Kiểm toán căn bản",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832061",
     "name": "Nghiệp vụ ngân hàng thương mại",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832062",
     "name": "Tổ chức công tác kế toán",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832098",
     "name": "Thực tập tốt nghiệp (KE)",
-    "credits": 5,
+    "credits": 5
   },
   {
     "courseId": "832106",
     "name": "Kinh tế vĩ mô",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832114",
     "name": "Tiền lương, tiền công",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832117",
     "name": "Kiểm toán hoạt động",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832302",
     "name": "Kế toán tài chính 3",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832304",
     "name": "Hệ thống pháp luật về kế toán, kiểm toán",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "832307",
     "name": "Thực hành khai báo thuế",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832310",
     "name": "Excel trong kiểm toán",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "832403",
     "name": "Tài chính doanh nghiệp",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832404",
     "name": "Chuẩn mực báo cáo tài chính quốc tế",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832405",
     "name": "Kế toán quản trị chiến lược",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "861302",
     "name": "Kinh tế chính trị Mác - Lênin",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "862407",
     "name": "Giáo dục quốc phòng và an ninh II",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "867002",
     "name": "Nguyên lý kế toán",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834322",
     "name": "Sức khỏe, an toàn và môi trường",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834342",
     "name": "Mô hình hóa môi trường",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834409",
     "name": "Biến đổi khí hậu",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834420",
     "name": "Kinh tế môi trường",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834422",
     "name": "Quy hoạch môi trường",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834458",
     "name": "Bố trí thí nghiệm và thống kê môi trường",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "834473",
     "name": "Quản lý môi trường dựa vào cộng đồng (CBEM)",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "834475",
     "name": "Truyền thông môi trường",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "849013",
     "name": "Giải tích hệ thống điện",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "849307",
     "name": "Bảo vệ rơ le và tự động hóa trong hệ thống điện",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "849405",
     "name": "Cung cấp điện",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "849408",
     "name": "Thực hành hệ thống điện",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "849409",
     "name": "Thực tế chuyên môn ngành điện",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "849410",
     "name": "Mạng truyền thông công nghiệp & SCADA",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "849411",
     "name": "Kỹ thuật cao áp và chống sét",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "849412",
     "name": "Kỹ thuật điện lạnh và hệ thống điện khí nén",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "851003",
     "name": "Thực hành kỹ thuật điện",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "813001",
     "name": "Tiếng Trung 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813078",
     "name": "Kỹ năng phiên dịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813101",
     "name": "Tiếng Trung 1",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "813102",
     "name": "Tiếng Pháp 1",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "813301",
     "name": "Hình thái - Cú pháp học",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813311",
     "name": "Chuyên đề các bài thi quốc tế",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813401",
     "name": "Tiếng Hàn 1",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "813405",
     "name": "Nghe - Nói 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813407",
     "name": "Nghe - Nói 4",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813409",
     "name": "Đọc - Viết 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813411",
     "name": "Đọc - Viết 4",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813412",
     "name": "Nhập môn ngôn ngữ học tri nhận",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "813502",
     "name": "Kỹ năng tư duy phản biện",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "838304",
     "name": "Thư tín thương mại",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "838305",
     "name": "Thực tế chuyên môn 1",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "838306",
     "name": "Marketing căn bản",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "838309",
     "name": "PPNC khoa học trong ngành Ngôn ngữ Anh",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "838401",
     "name": "Tiếng Anh văn phòng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "838404",
     "name": "Tiếng Anh tài chính ngân hàng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "838501",
     "name": "Tư duy phản biện",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846097",
     "name": "Thực tập 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846098",
     "name": "Thực tập 2",
-    "credits": 6,
+    "credits": 6
   },
   {
     "courseId": "846307",
     "name": "Xã hội học giáo dục",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846311",
     "name": "Lao động và nhân cách của người chuyên viên QLGD và hành chính giáo dục",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846313",
     "name": "Tổ chức cơ sở giáo dục",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846315",
     "name": "Đảm bảo chất lượng giáo dục",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846316",
     "name": "Quản lí nhân sự trong cơ sở giáo dục",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846321",
     "name": "Nghiệp vụ công tác văn thư trong cơ sở giáo dục",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846324",
     "name": "Quản lí người học trong cơ sở giáo dục",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846326",
     "name": "Quản lí việc xây dựng và phát triển chương trình giáo dục",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846329",
     "name": "Quản lí dự án giáo dục",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846405",
     "name": "Tâm lí học quản lí - Giao tiếp trong QLGD",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "846406",
     "name": "Phương pháp nghiên cứu khoa học quản lý giáo dục",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "846505",
     "name": "Tổ chức sự kiện trong cơ sở giáo dục",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "833021",
     "name": "Kinh tế vĩ mô",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "859400",
     "name": "Phương pháp nghiên cứu khoa học",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "859404",
     "name": "Marketing dịch vụ nhà hàng và dịch vụ ăn uống",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "859408",
     "name": "Nghiệp vụ nhà hàng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "859409",
     "name": "Nghiệp vụ chế biến món ăn",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "859421",
     "name": "Tổng quan du lịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "836124",
     "name": "Nghiệp vụ thư ký văn phòng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "836125",
     "name": "Nghiệp vụ công tác lưu trữ",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "836130",
     "name": "Soạn thảo thư tín thương mại",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "836133",
     "name": "Tổ chức điều hành công sở",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "836198",
     "name": "Thực tập tốt nghiệp (DQV)",
-    "credits": 5,
+    "credits": 5
   },
   {
     "courseId": "836301",
     "name": "Kỹ năng thuyết trình",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "836308",
     "name": "Thực tập ngành nghề",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "836309",
     "name": "Cải cách HC và cải cách thủ tục hành chính",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "836310",
     "name": "Nghiệp vụ lễ tân",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "836311",
     "name": "Hành vi tổ chức",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "836402",
     "name": "Quản trị học đại cương",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "836408",
     "name": "Tiếng Anh chuyên ngành QTVP 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "836410",
     "name": "Văn hóa công sở, doanh nghiệp",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "836417",
     "name": "Ứng dụng CNTT trong công tác văn phòng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "836419",
     "name": "Hệ thống ISO trong văn phòng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "836421",
     "name": "Tổ chức lao động trong văn phòng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "836506",
     "name": "Tâm lý học quản lý",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "836508",
     "name": "Thống kê trong công tác văn phòng",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "836513",
     "name": "Tổ chức sự kiện",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "836518",
     "name": "Kỹ năng hoạch định trong quản trị văn phòng",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "836519",
     "name": "Kỹ năng tổ chức trong quản trị văn phòng",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "854003",
     "name": "Kỹ năng soạn thảo văn bản ngoại giao",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854004",
     "name": "Các nền văn minh nhân loại",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854016",
     "name": "Tiếng Anh chuyên ngành 2",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "854019",
     "name": "Tổ chức sự kiện Quốc tế",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854025",
     "name": "Quan hệ Quốc tế Âu – Mỹ",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854027",
     "name": "Đàm phán Quốc tế",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "854302",
     "name": "Tiếng Trung 2",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "854401",
     "name": "Lịch sử ngoại giao Việt Nam",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854402",
     "name": "Chính trị quốc tế hiện đại",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854404",
     "name": "Quan hệ kinh tế quốc tế",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854408",
     "name": "Kỹ năng biên dịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854414",
     "name": "Những vấn đề toàn cầu",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854416",
     "name": "Giao tiếp đa văn hóa",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "854417",
     "name": "Quản trị khủng hoảng quốc tế",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854418",
     "name": "Thực tế chuyên môn 2",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "854420",
     "name": "Thực tập tốt nghiệp (DQT)",
-    "credits": 6,
+    "credits": 6
   },
   {
     "courseId": "854423",
     "name": "Ngoại giao đa phương",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "854424",
     "name": "Thông tấn báo chí đối ngoại",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854503",
     "name": "Sáng tạo nội dung truyền thông",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "854518",
     "name": "Các tổ chức và diễn đàn quốc tế",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816401",
     "name": "Nghệ thuật học đại cương",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "816404",
     "name": "Nhập môn sáng tác",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "816410",
     "name": "Phân tích tác phẩm",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "816414",
     "name": "Hợp xướng 2",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816418",
     "name": "Nhạc cụ 1",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816420",
     "name": "Nhạc cụ 3",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816422",
     "name": "Nhạc cụ 5",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816424",
     "name": "Nhạc cụ 7",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816425",
     "name": "Thanh nhạc 1",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816427",
     "name": "Thanh nhạc 3",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816429",
     "name": "Thanh nhạc 5",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816432",
     "name": "Kí xướng âm 2",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816434",
     "name": "Ký xướng âm 4",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816436",
     "name": "Ký xướng âm 6",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816440",
     "name": "Tổ chức hoạt động DH & GD ÂN ở trường TH",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "816442",
     "name": "Hòa âm 2",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "816507",
     "name": "Lịch sử âm nhạc Phương Tây",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "811056",
     "name": "Địa lý tự nhiên các lục địa 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "811071",
     "name": "Địa lý biển Đông",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "811078",
     "name": "Thực hành sư phạm 1",
-    "credits": 1,
+    "credits": 1
   },
   {
     "courseId": "811107",
     "name": "Tiếng Anh chuyên ngành Địa lý",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "811302",
     "name": "Địa lí kinh tế - xã hội Việt Nam 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "811322",
     "name": "Phân tích chương trình môn Địa lý THCS",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "811404",
     "name": "Địa lí tự nhiên đại cương 3",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "811406",
     "name": "Địa lí kinh tế - xã hội thế giới 1",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "811409",
     "name": "Thực tế chuyên môn 1",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "811412",
     "name": "Những vấn đề về địa lí tự nhiên",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "811413",
     "name": "Những vấn đề về địa lí kinh tế - xã hội",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "811414",
     "name": "Những vấn đề về dạy học địa lí ở THPT",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "811415",
     "name": "Hoạt động trải nghiệm sáng tạo trong dạy học Địa lí",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "811418",
     "name": "Phương pháp dạy học địa lí 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "811506",
     "name": "Phương pháp nghiên cứu khoa học Địa lý",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "810054",
     "name": "LSVN từ TK X đến 1858",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "810083",
     "name": "Thực hành sư phạm 2",
-    "credits": 1,
+    "credits": 1
   },
   {
     "courseId": "810407",
     "name": "Lịch sử thế giới trung đại",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "810409",
     "name": "Lịch sử thế giới hiện đại",
-    "credits": 5,
+    "credits": 5
   },
   {
     "courseId": "810411",
     "name": "Lịch sử Việt Nam từ 1945 đến nay",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "810415",
     "name": "Đổi mới kiểm tra, đánh giá trong dạy học Lịch sử",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "810416",
     "name": "Lịch sử khai phá vùng đất Nam Bộ (TK XVII-XIX)",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "810418",
     "name": "Lịch sử hình thành và phát triển ASEAN",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "810420",
     "name": "Lí luận dạy học Lịch sử",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "810428",
     "name": "Một số vấn đề về lịch sử biển đảo Việt Nam",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "810429",
     "name": "Toàn cầu hóa và cục diện thế giới hiện đại",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "810430",
     "name": "Chính sách đối ngoại và hợp tác quốc tế của Việt Nam từ sau chiến tranh lạnh đến nay",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "822312",
     "name": "Đô thị thế giới và Việt Nam",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "822313",
     "name": "Biển, đảo Việt Nam",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "822315",
     "name": "Địa lí kinh tế - xã hội Việt Nam",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "822318",
     "name": "Địa lí tự nhiên các lục địa",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "822329",
     "name": "Lí luận và phương pháp dạy học Địa lí",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "822337",
     "name": "Phong trào nông dân Việt Nam trong lịch sử",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "822338",
     "name": "Lịch sử quan hệ quốc tế",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "822401",
     "name": "Nhân học và Khảo cổ học đại cương",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "822402",
     "name": "Tiếng Anh chuyên ngành Lịch sử - Địa lí",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "822403",
     "name": "Một số vấn đề về địa lí tự nhiên",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "822404",
     "name": "Một số vấn đề về địa lí kinh tế - xã hội",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "822408",
     "name": "Thực hành sư phạm 2",
-    "credits": 1,
+    "credits": 1
   },
   {
     "courseId": "817051",
     "name": "PP dạy học Mỹ thuật 1",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "817054",
     "name": "Hình họa 3",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "817064",
     "name": "Sáng tác 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "817066",
     "name": "Sáng tác 3",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "817106",
     "name": "Sáng tác 4",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "817108",
     "name": "Thực hành sư phạm 2Đ",
-    "credits": 1,
+    "credits": 1
   },
   {
     "courseId": "817110",
     "name": "Thực hành sư phạm 4Đ",
-    "credits": 1,
+    "credits": 1
   },
   {
     "courseId": "817115",
     "name": "Điêu khắc",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "817121",
     "name": "Tin học ứ/dụng chuyên ngành Mĩ thuật 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "817402",
     "name": "Lịch sử Mỹ thuật Thế giới",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "817404",
     "name": "Giải phẫu tạo hình",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "817408",
     "name": "Trang trí 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "817412",
     "name": "Phương pháp NCKH ngành Sư phạm Mỹ thuật",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "817502",
     "name": "Giải phẫu tạo hình",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "809103",
     "name": "Tiến trình văn học",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "809308",
     "name": "Hệ thống thể loại và tác giả tiêu biểu Văn học Việt Nam hiện đại 1900 - 1945",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "809316",
     "name": "Các thể loại và tác gia tiêu biểu văn học châu Á",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "809317",
     "name": "Các thể loại và tác gia tiêu biểu văn học Tây Âu – Mĩ",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "809322",
     "name": "Hoạt động trải nghiệm trong dạy học Ngữ văn",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "809327",
     "name": "Thi pháp học với việc phân tích tác phẩm văn chương trong nhà trường",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "809405",
     "name": "PPNCKH ngành Sư phạm Ngữ văn",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "809406",
     "name": "Ngữ âm - Từ vựng tiếng Việt",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "809410",
     "name": "Hệ thống thể loại và tác giả tiêu biểu văn học VN hiện đại từ 1975 đến nay",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "809411",
     "name": "Hệ thống thể loại và ngôn ngữ văn học trung đại Việt Nam",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "809413",
     "name": "Phương pháp dạy học Ngữ văn 2",
-    "credits": 5,
+    "credits": 5
   },
   {
     "courseId": "809415",
     "name": "Ngôn ngữ học xã hội",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "809416",
     "name": "Văn học đô thị miền Nam (1954-1975)",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "809450",
     "name": "Văn học và phương ngữ Nam bộ",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "809452",
     "name": "Thực hành sư phạm 2",
-    "credits": 1,
+    "credits": 1
   },
   {
     "courseId": "813313",
     "name": "Lý luận dạy học tiếng Anh 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813417",
     "name": "Phương pháp dạy học tiếng Anh 2",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813419",
     "name": "Phương pháp dạy học tiếng Anh 4",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813420",
     "name": "Tiếng Anh tiểu học",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "813422",
     "name": "Tìm hiểu thực tế các cơ sở giáo dục tiên tiến",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832026",
     "name": "Thuế",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832058",
     "name": "Tài chính doanh nghiệp 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "832301",
     "name": "Marketing căn bản",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "842056",
     "name": "Tài chính quốc tế",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "842110",
     "name": "Kế toán quản trị (ngành TCNH)",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "842112",
     "name": "Kinh doanh ngoại hối",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "842117",
     "name": "Khai báo thuế",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "842118",
     "name": "Định giá tài sản",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "842302",
     "name": "Tài chính hành vi",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "842303",
     "name": "Tài chính vi mô",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "842304",
     "name": "PP định lượng trong tài chính ngân hàng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "842398",
     "name": "Thực tập tốt nghiệp (DTN)",
-    "credits": 5,
+    "credits": 5
   },
   {
     "courseId": "842401",
     "name": "Đầu tư tài chính",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "853007",
     "name": "Tâm lí học xã hội",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "853010",
     "name": "Tâm lí học nhận thức",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "853028",
     "name": "Tâm lí học học đường",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "853040",
     "name": "Thực tế chuyên môn",
-    "credits": 1,
+    "credits": 1
   },
   {
     "courseId": "853402",
     "name": "Tâm lí học quản lí",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "853403",
     "name": "Tâm lí học nhân sự",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "853405",
     "name": "Tâm lí học giáo dục",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "853406",
     "name": "Tâm lí học lệch chuẩn",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "853408",
     "name": "Tâm lí học gia đình",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "853409",
     "name": "Tâm lí học kinh doanh và quảng cáo",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "853417",
     "name": "Phát triển nguồn nhân lực ngành Tâm lý học",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "853418",
     "name": "Kỹ năng phát triển cộng đồng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "853419",
     "name": "Kỹ năng giảng dạy tâm lý học",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "853502",
     "name": "Phương pháp nghiên cứu Tâm lý học",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "853503",
     "name": "Kỹ năng tham vấn",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "853509",
     "name": "Nhập môn tâm lý học lâm sàng",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "847409",
     "name": "Thanh nhạc chuyên ngành 6",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "847411",
     "name": "Thanh nhạc chuyên ngành 8",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "841108",
     "name": "Cấu trúc dữ liệu và giải thuật",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "841303",
     "name": "Kỹ thuật lập trình",
-    "credits": 4,
+    "credits": 4
   },
   {
     "courseId": "835065",
     "name": "Kinh tế du lịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "835084",
     "name": "Toàn cầu hóa",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "835104",
     "name": "Văn hóa doanh nghiệp",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "835105",
     "name": "Tâm lý - giao tiếp du lịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "835111",
     "name": "Tiếng Anh giao tiếp du lịch 1",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "835304",
     "name": "Các loại hình nghệ thuật Việt Nam",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "835312",
     "name": "Phong tục - Tín ngưỡng - Tôn giáo Việt Nam",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "835319",
     "name": "Chính sách ngoại giao Việt Nam",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "835326",
     "name": "Tiếng Anh giao tiếp du lịch 3",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "835402",
     "name": "Quản lý di sản văn hóa và du lịch",
-    "credits": 2,
+    "credits": 2
   },
   {
     "courseId": "835405",
     "name": "Quản trị các sự kiện văn hóa du lịch",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "835406",
     "name": "Thực tập tốt nghiệp (DVI)",
-    "credits": 6,
+    "credits": 6
   },
   {
     "courseId": "835407",
     "name": "Các vấn đề xã hội học đương đại",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "835408",
     "name": "Thực tế chuyên môn 3",
-    "credits": 3,
+    "credits": 3
   },
   {
     "courseId": "835502",
     "name": "Nhân học ứng dụng",
-    "credits": 3,
-  },
-];
+    "credits": 3
+  }
+]
