@@ -6,6 +6,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 40,
         "schedule": [
           {
             "teacher": "Từ Lãng Phiêu",
@@ -13,7 +14,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.A110",
-            "studyWeeks": [3, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Từ Lãng Phiêu",
@@ -21,7 +24,9 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.A110",
-            "studyWeeks": [3, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -34,6 +39,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Từ Lãng Phiêu",
@@ -41,7 +47,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.B107",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Từ Lãng Phiêu",
@@ -49,7 +57,9 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.B107",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -62,6 +72,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Lê Nhị Lãm Thúy",
@@ -69,7 +80,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.E301",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Lê Nhị Lãm Thúy",
@@ -77,12 +90,15 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.E301",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "2",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Lê Nhị Lãm Thúy",
@@ -90,7 +106,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.E502",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Lê Nhị Lãm Thúy",
@@ -98,12 +116,15 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.E502",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "3",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Lê Nhị Lãm Thúy",
@@ -111,7 +132,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.E503",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Lê Nhị Lãm Thúy",
@@ -119,12 +142,15 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.E503",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "4",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Huỳnh Nguyễn Khắc Huy",
@@ -132,7 +158,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.C107",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Huỳnh Nguyễn Khắc Huy",
@@ -140,12 +168,15 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.C107",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "5",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Phan Nguyệt Minh",
@@ -153,7 +184,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.E502",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Phan Nguyệt Minh",
@@ -161,12 +194,15 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.E502",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "6",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Phan Nguyệt Minh",
@@ -174,7 +210,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.E502",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Phan Nguyệt Minh",
@@ -182,7 +220,9 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.E502",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -195,6 +235,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Lương Minh Huấn",
@@ -202,7 +243,9 @@
             "startPeriod": 1,
             "periodCount": 2,
             "room": "C.E503",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Lương Minh Huấn",
@@ -210,12 +253,15 @@
             "startPeriod": 3,
             "periodCount": 2,
             "room": "C.E503",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "2",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Lương Minh Huấn",
@@ -223,7 +269,9 @@
             "startPeriod": 1,
             "periodCount": 2,
             "room": "C.E503",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Lương Minh Huấn",
@@ -231,12 +279,15 @@
             "startPeriod": 3,
             "periodCount": 2,
             "room": "C.E503",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "3",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Lương Minh Huấn",
@@ -244,7 +295,9 @@
             "startPeriod": 6,
             "periodCount": 2,
             "room": "C.E503",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Lương Minh Huấn",
@@ -252,12 +305,15 @@
             "startPeriod": 8,
             "periodCount": 2,
             "room": "C.E503",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "4",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Nguyễn Trung Tín",
@@ -265,7 +321,9 @@
             "startPeriod": 6,
             "periodCount": 2,
             "room": "C.D401",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Nguyễn Trung Tín",
@@ -273,12 +331,15 @@
             "startPeriod": 1,
             "periodCount": 2,
             "room": "C.D401",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "5",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Nguyễn Trung Tín",
@@ -286,7 +347,9 @@
             "startPeriod": 1,
             "periodCount": 2,
             "room": "C.E402",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Nguyễn Trung Tín",
@@ -294,12 +357,15 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.E402",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "6",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Nguyễn Trung Tín",
@@ -307,7 +373,9 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.E503",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Nguyễn Trung Tín",
@@ -315,7 +383,9 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.E503",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -328,6 +398,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Lê Nhị Lãm Thúy",
@@ -335,7 +406,9 @@
             "startPeriod": 6,
             "periodCount": 2,
             "room": "C.E403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Lê Nhị Lãm Thúy",
@@ -343,7 +416,9 @@
             "startPeriod": 8,
             "periodCount": 2,
             "room": "C.E403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -356,8 +431,10 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 300,
         "schedule": [
           {
+            "teacher": "",
             "dayOfWeek": 2,
             "startPeriod": 1,
             "periodCount": 5,
@@ -452,6 +529,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 120,
         "schedule": [
           {
             "teacher": "Phạm Thi Vương",
@@ -459,7 +537,9 @@
             "startPeriod": 6,
             "periodCount": 2,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Phạm Thi Vương",
@@ -467,12 +547,15 @@
             "startPeriod": 8,
             "periodCount": 2,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "2",
+        "classSize": 120,
         "schedule": [
           {
             "teacher": "Phạm Thi Vương",
@@ -480,7 +563,9 @@
             "startPeriod": 6,
             "periodCount": 2,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Phạm Thi Vương",
@@ -488,7 +573,9 @@
             "startPeriod": 8,
             "periodCount": 2,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -501,13 +588,17 @@
     "groups": [
       {
         "groupId": "2",
+        "classSize": 0,
         "schedule": [
           {
             "teacher": " ",
             "dayOfWeek": 0,
             "startPeriod": 0,
             "periodCount": 5,
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "room": "",
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -520,6 +611,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Đỗ Ngọc Như Loan",
@@ -527,7 +619,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.A105",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Đỗ Ngọc Như Loan",
@@ -535,12 +629,15 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.A105",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "2",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Đỗ Ngọc Như Loan",
@@ -548,7 +645,9 @@
             "startPeriod": 8,
             "periodCount": 3,
             "room": "C.A105",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Đỗ Ngọc Như Loan",
@@ -556,12 +655,15 @@
             "startPeriod": 6,
             "periodCount": 2,
             "room": "C.A105",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "3",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Nguyễn Thanh Sang",
@@ -569,7 +671,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.A106",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Nguyễn Thanh Sang",
@@ -577,12 +681,15 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.A106",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "4",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Nguyễn Thanh Sang",
@@ -590,7 +697,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.A102",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Nguyễn Thanh Sang",
@@ -598,12 +707,15 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.A102",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "5",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Phùng Thái Thiên Trang",
@@ -611,7 +723,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.A106",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Phùng Thái Thiên Trang",
@@ -619,12 +733,15 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.A106",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "6",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Phùng Thái Thiên Trang",
@@ -632,7 +749,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.A111",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Phùng Thái Thiên Trang",
@@ -640,12 +759,15 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.A111",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "7",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Nguyễn Thị Hồng Anh",
@@ -653,7 +775,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.A111",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Nguyễn Thị Hồng Anh",
@@ -661,12 +785,15 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.A111",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "8",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Nguyễn Thị Hồng Anh",
@@ -674,7 +801,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.A106",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Nguyễn Thị Hồng Anh",
@@ -682,12 +811,15 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.A106",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "9",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Trần Nguyễn Minh Hiếu",
@@ -695,7 +827,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.A111",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Trần Nguyễn Minh Hiếu",
@@ -703,7 +837,9 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.A111",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -716,6 +852,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Phạm Thế Bảo",
@@ -753,6 +890,7 @@
       },
       {
         "groupId": "2",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Nguyễn Thanh Phước",
@@ -782,6 +920,7 @@
       },
       {
         "groupId": "3",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Huỳnh Minh Trí",
@@ -811,6 +950,7 @@
       },
       {
         "groupId": "4",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Huỳnh Minh Trí",
@@ -840,6 +980,7 @@
       },
       {
         "groupId": "5",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Lê Tấn Long",
@@ -869,6 +1010,7 @@
       },
       {
         "groupId": "6",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Nguyễn Duy Hàm",
@@ -905,6 +1047,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Huỳnh Nguyễn Khắc Huy",
@@ -912,7 +1055,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.C107",
-            "studyWeeks": [3, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Huỳnh Nguyễn Khắc Huy",
@@ -920,7 +1065,9 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.C107",
-            "studyWeeks": [3, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -933,6 +1080,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Huỳnh Minh Trí",
@@ -940,7 +1088,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.D401",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Huỳnh Minh Trí",
@@ -948,12 +1098,15 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.D401",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "2",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Huỳnh Minh Trí",
@@ -961,7 +1114,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.HB403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Huỳnh Minh Trí",
@@ -969,12 +1124,15 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.HB403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "3",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Huỳnh Minh Trí",
@@ -982,7 +1140,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.D401",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Huỳnh Minh Trí",
@@ -990,12 +1150,15 @@
             "startPeriod": 1,
             "periodCount": 2,
             "room": "C.D401",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "4",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Lê Tấn Long",
@@ -1003,7 +1166,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.HB403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Lê Tấn Long",
@@ -1011,12 +1176,15 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.HB403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "5",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Lê Tấn Long",
@@ -1024,7 +1192,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.HB403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Lê Tấn Long",
@@ -1032,12 +1202,15 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.HB403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "6",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Đỗ Như Tài",
@@ -1045,7 +1218,9 @@
             "startPeriod": 8,
             "periodCount": 3,
             "room": "C.E301",
-            "studyWeeks": [3, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Lê Tấn Long",
@@ -1053,7 +1228,9 @@
             "startPeriod": 1,
             "periodCount": 2,
             "room": "C.C107",
-            "studyWeeks": [3, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -1066,6 +1243,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Từ Lãng Phiêu",
@@ -1073,7 +1251,9 @@
             "startPeriod": 6,
             "periodCount": 2,
             "room": "C.E503",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Từ Lãng Phiêu",
@@ -1081,12 +1261,15 @@
             "startPeriod": 8,
             "periodCount": 2,
             "room": "C.E503",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "2",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Từ Lãng Phiêu",
@@ -1094,7 +1277,9 @@
             "startPeriod": 1,
             "periodCount": 2,
             "room": "C.E403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Từ Lãng Phiêu",
@@ -1102,12 +1287,15 @@
             "startPeriod": 3,
             "periodCount": 2,
             "room": "C.E403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "3",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Từ Lãng Phiêu",
@@ -1115,7 +1303,9 @@
             "startPeriod": 6,
             "periodCount": 2,
             "room": "C.E503",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Từ Lãng Phiêu",
@@ -1123,12 +1313,15 @@
             "startPeriod": 8,
             "periodCount": 2,
             "room": "C.E503",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "4",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Từ Lãng Phiêu",
@@ -1136,7 +1329,9 @@
             "startPeriod": 1,
             "periodCount": 2,
             "room": "C.E502",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Từ Lãng Phiêu",
@@ -1144,12 +1339,15 @@
             "startPeriod": 3,
             "periodCount": 2,
             "room": "C.E502",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "5",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Từ Lãng Phiêu",
@@ -1157,7 +1355,9 @@
             "startPeriod": 1,
             "periodCount": 2,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Từ Lãng Phiêu",
@@ -1165,7 +1365,9 @@
             "startPeriod": 3,
             "periodCount": 2,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -1178,6 +1380,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Phan Tấn Quốc",
@@ -1207,6 +1410,7 @@
       },
       {
         "groupId": "2",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Trần Nguyễn Minh Hiếu",
@@ -1236,6 +1440,7 @@
       },
       {
         "groupId": "3",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Phan Tấn Quốc",
@@ -1265,6 +1470,7 @@
       },
       {
         "groupId": "4",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Phạm Hoàng Vương",
@@ -1294,6 +1500,7 @@
       },
       {
         "groupId": "5",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Lai Đình Khải",
@@ -1323,6 +1530,7 @@
       },
       {
         "groupId": "6",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Trịnh Tấn Đạt",
@@ -1352,6 +1560,7 @@
       },
       {
         "groupId": "7",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Lai Đình Khải",
@@ -1381,6 +1590,7 @@
       },
       {
         "groupId": "8",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Trịnh Tấn Đạt",
@@ -1410,6 +1620,7 @@
       },
       {
         "groupId": "9",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Trương Tấn Khoa",
@@ -1439,6 +1650,7 @@
       },
       {
         "groupId": "10",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Phan Tấn Quốc",
@@ -1468,6 +1680,7 @@
       },
       {
         "groupId": "11",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Trương Tấn Khoa",
@@ -1497,6 +1710,7 @@
       },
       {
         "groupId": "12",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Phan Tấn Quốc",
@@ -1533,6 +1747,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 120,
         "schedule": [
           {
             "teacher": "Đỗ Như Tài",
@@ -1540,12 +1755,15 @@
             "startPeriod": 2,
             "periodCount": 2,
             "room": "C.A313",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "2",
+        "classSize": 120,
         "schedule": [
           {
             "teacher": "Đỗ Như Tài",
@@ -1553,7 +1771,9 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.A313",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -1566,6 +1786,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Lương Minh Huấn",
@@ -1587,6 +1808,7 @@
       },
       {
         "groupId": "2",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Nguyễn Quốc Phong",
@@ -1608,6 +1830,7 @@
       },
       {
         "groupId": "3",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Lương Minh Huấn",
@@ -1629,6 +1852,7 @@
       },
       {
         "groupId": "4",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Cổ Tồn Minh Đăng",
@@ -1650,6 +1874,7 @@
       },
       {
         "groupId": "5",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Nguyễn Quốc Phong",
@@ -1671,6 +1896,7 @@
       },
       {
         "groupId": "6",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Cổ Tồn Minh Đăng",
@@ -1692,6 +1918,7 @@
       },
       {
         "groupId": "7",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Nguyễn Quốc Phong",
@@ -1713,6 +1940,7 @@
       },
       {
         "groupId": "8",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Nguyễn Trung Tín",
@@ -1734,6 +1962,7 @@
       },
       {
         "groupId": "9",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Nguyễn Quốc Phong",
@@ -1755,6 +1984,7 @@
       },
       {
         "groupId": "10",
+        "classSize": 50,
         "schedule": [
           {
             "teacher": "Nguyễn Trung Tín",
@@ -1783,6 +2013,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Trương Tấn Khoa",
@@ -1790,7 +2021,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.D401",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Trương Tấn Khoa",
@@ -1798,12 +2031,15 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.D401",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "2",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Trương Tấn Khoa",
@@ -1811,7 +2047,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.E402",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Trương Tấn Khoa",
@@ -1819,7 +2057,9 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.E402",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -1832,6 +2072,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Nguyễn Lê Thanh Trúc",
@@ -1839,7 +2080,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.E403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Nguyễn Lê Thanh Trúc",
@@ -1847,7 +2090,9 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.E403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -1860,6 +2105,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Nguyễn Võ Lam Giang",
@@ -1867,7 +2113,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Nguyễn Võ Lam Giang",
@@ -1875,7 +2123,9 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -1888,6 +2138,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Huỳnh Nguyễn Khắc Huy",
@@ -1895,7 +2146,9 @@
             "startPeriod": 3,
             "periodCount": 3,
             "room": "C.D401",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Huỳnh Nguyễn Khắc Huy",
@@ -1903,7 +2156,9 @@
             "startPeriod": 1,
             "periodCount": 2,
             "room": "C.D401",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -1916,6 +2171,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 120,
         "schedule": [
           {
             "teacher": "Nguyễn Hòa",
@@ -1923,12 +2179,15 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.C105",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "2",
+        "classSize": 120,
         "schedule": [
           {
             "teacher": "Nguyễn Hòa",
@@ -1936,12 +2195,15 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.E502",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "3",
+        "classSize": 120,
         "schedule": [
           {
             "teacher": "Nguyễn Hòa",
@@ -1949,12 +2211,15 @@
             "startPeriod": 8,
             "periodCount": 3,
             "room": "C.C102",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "4",
+        "classSize": 120,
         "schedule": [
           {
             "teacher": "Nguyễn Hòa",
@@ -1962,12 +2227,15 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.C105",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "5",
+        "classSize": 120,
         "schedule": [
           {
             "teacher": "Nguyễn Hòa",
@@ -1975,7 +2243,9 @@
             "startPeriod": 3,
             "periodCount": 3,
             "room": "C.E502",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -1988,6 +2258,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 120,
         "schedule": [
           {
             "teacher": "Quách Thị Ngọc Thiện",
@@ -1995,7 +2266,9 @@
             "startPeriod": 1,
             "periodCount": 2,
             "room": "C.C103",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -2008,6 +2281,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Lê Tấn Long",
@@ -2015,7 +2289,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.HB403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Lê Tấn Long",
@@ -2023,12 +2299,15 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.HB403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "2",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Lê Tấn Long",
@@ -2036,7 +2315,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.HB403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Lê Tấn Long",
@@ -2044,12 +2325,15 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.HB403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "3",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Hà Thanh Dũng",
@@ -2057,7 +2341,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.E403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Hà Thanh Dũng",
@@ -2065,12 +2351,15 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.E403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "4",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Hà Thanh Dũng",
@@ -2078,7 +2367,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Hà Thanh Dũng",
@@ -2086,12 +2377,15 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "5",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Hà Thanh Dũng",
@@ -2099,7 +2393,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.E402",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Hà Thanh Dũng",
@@ -2107,7 +2403,9 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.E402",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -2120,6 +2418,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Nguyễn Quốc Huy",
@@ -2127,7 +2426,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.D401",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Nguyễn Quốc Huy",
@@ -2135,12 +2436,15 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.D401",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "2",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Từ Lãng Phiêu",
@@ -2148,7 +2452,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.E403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Từ Lãng Phiêu",
@@ -2156,12 +2462,15 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.E403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "3",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Từ Lãng Phiêu",
@@ -2169,7 +2478,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.E403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Từ Lãng Phiêu",
@@ -2177,12 +2488,15 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.E403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "4",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Nguyễn Minh Cảnh",
@@ -2190,7 +2504,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.E403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Nguyễn Minh Cảnh",
@@ -2198,7 +2514,9 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.E403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -2211,6 +2529,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 120,
         "schedule": [
           {
             "teacher": "Phạm Thi Vương",
@@ -2218,7 +2537,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Phạm Thi Vương",
@@ -2226,7 +2547,9 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -2239,6 +2562,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Nguyễn Võ Lam Giang",
@@ -2246,7 +2570,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.E402",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Nguyễn Võ Lam Giang",
@@ -2254,7 +2580,9 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.E402",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -2267,6 +2595,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Nguyễn Trung Tín",
@@ -2274,7 +2603,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Nguyễn Trung Tín",
@@ -2282,7 +2613,9 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -2295,6 +2628,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Lương Minh Huấn",
@@ -2302,7 +2636,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.E403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Lương Minh Huấn",
@@ -2310,7 +2646,9 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.E403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -2323,6 +2661,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Huỳnh Lê Minh Thiện",
@@ -2330,7 +2669,9 @@
             "startPeriod": 3,
             "periodCount": 3,
             "room": "C.C107",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -2343,6 +2684,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Phạm Thế Bảo",
@@ -2350,7 +2692,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.HB403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Phạm Thế Bảo",
@@ -2358,7 +2702,9 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.HB403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -2371,6 +2717,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Nguyễn Thanh Phước",
@@ -2378,7 +2725,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.D401",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Nguyễn Thanh Phước",
@@ -2386,7 +2735,9 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.D401",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -2399,6 +2750,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Huỳnh Minh Trí",
@@ -2406,7 +2758,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.E402",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Huỳnh Minh Trí",
@@ -2414,7 +2768,9 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.E402",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -2427,6 +2783,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Phan Nguyệt Minh",
@@ -2434,7 +2791,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.E403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Phan Nguyệt Minh",
@@ -2442,7 +2801,9 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.E403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -2455,6 +2816,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Phan Nguyệt Minh",
@@ -2462,7 +2824,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.E403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Phan Nguyệt Minh",
@@ -2470,12 +2834,15 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.E403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "2",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Trần Đình Nghĩa",
@@ -2483,7 +2850,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.E402",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Trần Đình Nghĩa",
@@ -2491,12 +2860,15 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.E402",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "3",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Phan Nguyệt Minh",
@@ -2504,7 +2876,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.E403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Phan Nguyệt Minh",
@@ -2512,12 +2886,15 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.E403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "4",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Trần Đình Nghĩa",
@@ -2525,7 +2902,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.E402",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Trần Đình Nghĩa",
@@ -2533,7 +2912,9 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.E402",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -2546,6 +2927,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Cao Thái Phương Thanh",
@@ -2553,7 +2935,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.HB403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Cao Thái Phương Thanh",
@@ -2561,12 +2945,15 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.HB403",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "2",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Nguyễn Thanh Sang",
@@ -2574,7 +2961,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.E402",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Nguyễn Thanh Sang",
@@ -2582,12 +2971,15 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.E402",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "3",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Nguyễn Thanh Sang",
@@ -2595,7 +2987,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.E402",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Nguyễn Thanh Sang",
@@ -2603,12 +2997,15 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.E402",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "4",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Nguyễn Thanh Sang",
@@ -2616,7 +3013,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.E402",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Nguyễn Thanh Sang",
@@ -2624,12 +3023,15 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.E402",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "5",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Nguyễn Thanh Sang",
@@ -2637,7 +3039,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.E402",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Nguyễn Thanh Sang",
@@ -2645,7 +3049,9 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.E402",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -2658,6 +3064,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Nguyễn Thanh Phước",
@@ -2665,7 +3072,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.C102",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Nguyễn Thanh Phước",
@@ -2673,7 +3082,9 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.C102",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -2686,6 +3097,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 120,
         "schedule": [
           {
             "teacher": "Nguyễn Tuấn Đăng",
@@ -2699,6 +3111,7 @@
       },
       {
         "groupId": "2",
+        "classSize": 120,
         "schedule": [
           {
             "teacher": "Trần Đình Nghĩa",
@@ -2719,6 +3132,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Từ Lãng Phiêu",
@@ -2726,7 +3140,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Từ Lãng Phiêu",
@@ -2734,12 +3150,15 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "2",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Từ Lãng Phiêu",
@@ -2747,7 +3166,9 @@
             "startPeriod": 1,
             "periodCount": 3,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Từ Lãng Phiêu",
@@ -2755,12 +3176,15 @@
             "startPeriod": 4,
             "periodCount": 2,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "3",
+        "classSize": 90,
         "schedule": [
           {
             "teacher": "Cao Minh Thành",
@@ -2768,7 +3192,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Cao Minh Thành",
@@ -2776,7 +3202,9 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -2789,6 +3217,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 120,
         "schedule": [
           {
             "teacher": "Phạm Thi Vương",
@@ -2796,7 +3225,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Phạm Thi Vương",
@@ -2804,12 +3235,15 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       },
       {
         "groupId": "2",
+        "classSize": 120,
         "schedule": [
           {
             "teacher": "Phạm Thi Vương",
@@ -2817,7 +3251,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           },
           {
             "teacher": "Phạm Thi Vương",
@@ -2825,7 +3261,9 @@
             "startPeriod": 9,
             "periodCount": 2,
             "room": "C.HB406",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
@@ -2838,6 +3276,7 @@
     "groups": [
       {
         "groupId": "1",
+        "classSize": 120,
         "schedule": [
           {
             "teacher": "Nguyễn Tuấn Đăng",
@@ -2851,6 +3290,7 @@
       },
       {
         "groupId": "2",
+        "classSize": 120,
         "schedule": [
           {
             "teacher": "Nguyễn Quốc Huy",
@@ -2858,7 +3298,9 @@
             "startPeriod": 6,
             "periodCount": 3,
             "room": "C.C105",
-            "studyWeeks": [3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24]
+            "studyWeeks": [
+              3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24
+            ]
           }
         ]
       }
