@@ -10,7 +10,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 88,
+          "classSize": 78,
           "schedule": [
             {
               "teacher": "Trương Hoàng Huy",
@@ -40,7 +40,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 40,
+          "classSize": 15,
           "schedule": [
             {
               "teacher": "Trương Hoàng Huy",
@@ -70,7 +70,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 39,
+          "classSize": 38,
           "schedule": [
             {
               "teacher": "Hoa Ánh Tường",
@@ -116,7 +116,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 50,
+          "classSize": 47,
           "schedule": [
             {
               "teacher": "Kiều Phương Chi",
@@ -162,7 +162,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 33,
+          "classSize": 5,
           "schedule": [
             {
               "teacher": "Đặng Đức Trọng",
@@ -284,7 +284,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 24,
+          "classSize": 23,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Nhị",
@@ -434,7 +434,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 22,
+          "classSize": 4,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Phượng Liên",
@@ -472,7 +472,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 13,
+          "classSize": 12,
           "schedule": [
             {
               "teacher": "Nguyễn Văn Thắng",
@@ -510,7 +510,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 20,
+          "classSize": 3,
           "schedule": [
             {
               "teacher": "Nguyễn Đức Hưng",
@@ -556,7 +556,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 21,
+          "classSize": 18,
           "schedule": [
             {
               "teacher": "Nguyễn Đức Hưng",
@@ -850,7 +850,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 20,
+          "classSize": 2,
           "schedule": [
             {
               "teacher": "Lê Đình Khanh",
@@ -888,7 +888,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 22,
+          "classSize": 4,
           "schedule": [
             {
               "teacher": "Trần Văn Chung",
@@ -926,7 +926,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 25,
+          "classSize": 7,
           "schedule": [
             {
               "teacher": "Phạm Ngọc Hiền",
@@ -964,7 +964,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 29,
+          "classSize": 10,
           "schedule": [
             {
               "teacher": "Đỗ Cao Phúc",
@@ -1056,7 +1056,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 30,
+          "classSize": 14,
           "schedule": [
             {
               "teacher": "Trần Thị Hạnh Lợi",
@@ -1224,7 +1224,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 19,
+          "classSize": 5,
           "schedule": [
             {
               "teacher": "Nguyễn Hà Quỳnh Giao",
@@ -1275,7 +1275,7 @@
       "groups": [
         {
           "groupId": "02",
-          "classSize": 65,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Bùi Diễm Hạnh",
@@ -1297,7 +1297,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 59,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Hà Nguyễn Tuyết Minh",
@@ -1319,7 +1319,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 65,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Hà Nguyễn Tuyết Minh",
@@ -1341,7 +1341,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 62,
+          "classSize": 1,
           "schedule": [
             {
               "teacher": "Trần Đăng Khôi",
@@ -1363,7 +1363,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 61,
+          "classSize": 22,
           "schedule": [
             {
               "teacher": "Trần Đăng Khôi",
@@ -1393,7 +1393,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 60,
+          "classSize": 20,
           "schedule": [
             {
               "teacher": "Đặng Ngọc Bảo Hiền",
@@ -1415,7 +1415,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 60,
+          "classSize": 46,
           "schedule": [
             {
               "teacher": "Đặng Ngọc Bảo Hiền",
@@ -1437,7 +1437,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 55,
+          "classSize": 1,
           "schedule": [
             {
               "teacher": "Trần Quang Loan Tuyền",
@@ -1459,7 +1459,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 55,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Mai Hoàng Việt",
@@ -1481,7 +1481,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 47,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Thu Vân",
@@ -1503,7 +1503,7 @@
         },
         {
           "groupId": "07",
-          "classSize": 47,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Phạm Lê Kim Tuyến",
@@ -1525,7 +1525,7 @@
         },
         {
           "groupId": "08",
-          "classSize": 47,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Phạm Lê Kim Tuyến",
@@ -1547,7 +1547,7 @@
         },
         {
           "groupId": "09",
-          "classSize": 52,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Lê Thị Thanh Hà",
@@ -1577,7 +1577,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 43,
+          "classSize": 42,
           "schedule": [
             {
               "teacher": "Lê Hà Tố Quyên",
@@ -1599,7 +1599,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 60,
+          "classSize": 59,
           "schedule": [
             {
               "teacher": "Trần Quang Loan Tuyền",
@@ -1651,7 +1651,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 60,
+          "classSize": 59,
           "schedule": [
             {
               "teacher": "Đào Lê Trọng Nhân",
@@ -1673,7 +1673,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 59,
+          "classSize": 56,
           "schedule": [
             {
               "teacher": "Nguyễn Phạm Phương Khánh",
@@ -1695,7 +1695,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 53,
+          "classSize": 52,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Hà",
@@ -1739,7 +1739,7 @@
         },
         {
           "groupId": "08",
-          "classSize": 55,
+          "classSize": 51,
           "schedule": [
             {
               "teacher": "Nguyễn Trung Thảo",
@@ -1761,7 +1761,7 @@
         },
         {
           "groupId": "09",
-          "classSize": 46,
+          "classSize": 44,
           "schedule": [
             {
               "teacher": "Nguyễn Trung Thảo",
@@ -1813,7 +1813,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 58,
+          "classSize": 56,
           "schedule": [
             {
               "teacher": "Lê Thị Đài Trang",
@@ -1835,7 +1835,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 55,
+          "classSize": 54,
           "schedule": [
             {
               "teacher": "Phạm Ngọc Diễm",
@@ -1857,7 +1857,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 54,
+          "classSize": 51,
           "schedule": [
             {
               "teacher": "Nguyễn Trung Thảo",
@@ -1879,7 +1879,7 @@
         },
         {
           "groupId": "07",
-          "classSize": 60,
+          "classSize": 59,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Hoàng Lan",
@@ -1901,7 +1901,7 @@
         },
         {
           "groupId": "08",
-          "classSize": 56,
+          "classSize": 55,
           "schedule": [
             {
               "teacher": "Đỗ Tiến Lộc",
@@ -1923,7 +1923,7 @@
         },
         {
           "groupId": "09",
-          "classSize": 56,
+          "classSize": 55,
           "schedule": [
             {
               "teacher": "Đỗ Tiến Lộc",
@@ -1953,7 +1953,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 52,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Lê Thị Thanh Hà",
@@ -1975,7 +1975,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 54,
+          "classSize": 1,
           "schedule": [
             {
               "teacher": "Phạm Thùy Ngọc Trang",
@@ -2005,7 +2005,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 75,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Ngọc Mưu",
@@ -2043,7 +2043,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 61,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Ngọc Mưu",
@@ -2089,7 +2089,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 43,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Phạm Thị Thanh Tú",
@@ -2143,7 +2143,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 37,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Phạm Thị Thanh Tú",
@@ -2197,7 +2197,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 45,
+          "classSize": 6,
           "schedule": [
             {
               "teacher": "Trần Thị Lợi",
@@ -2251,7 +2251,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 39,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Trần Thị Lợi",
@@ -2313,7 +2313,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 85,
+          "classSize": 34,
           "schedule": [
             {
               "teacher": "Trần Hòa Hiệp",
@@ -2351,7 +2351,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 84,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Trần Thế Hiển",
@@ -2419,7 +2419,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 99,
+          "classSize": 98,
           "schedule": [
             {
               "teacher": "Phạm Văn Tuân",
@@ -2449,7 +2449,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 69,
+          "classSize": 68,
           "schedule": [
             {
               "teacher": "Dương Thanh Tùng",
@@ -2545,7 +2545,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 12,
+          "classSize": 11,
           "schedule": [
             {
               "teacher": "Nguyễn Đức Linh",
@@ -2567,7 +2567,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 13,
+          "classSize": 11,
           "schedule": [
             {
               "teacher": "Nguyễn Đức Linh",
@@ -2589,7 +2589,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 13,
+          "classSize": 11,
           "schedule": [
             {
               "teacher": "Dương Thanh Tùng",
@@ -2663,7 +2663,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 10,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Vũ Đại Dương",
@@ -2685,7 +2685,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 10,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Vũ Đại Dương",
@@ -2707,7 +2707,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 10,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Lê Tiến Thạch",
@@ -2729,7 +2729,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 9,
+          "classSize": 4,
           "schedule": [
             {
               "teacher": "Nguyễn Đức Linh",
@@ -2877,7 +2877,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 13,
+          "classSize": 2,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Như Ngọc",
@@ -2899,7 +2899,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 13,
+          "classSize": 4,
           "schedule": [
             {
               "teacher": "Đoàn Thanh Minh",
@@ -2921,7 +2921,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 14,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Hoàng Anh Thiên",
@@ -2995,7 +2995,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 20,
+          "classSize": 18,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Mỹ Liêm",
@@ -3047,7 +3047,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 34,
+          "classSize": 1,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Thanh Trà",
@@ -3145,7 +3145,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 28,
+          "classSize": 27,
           "schedule": [
             {
               "teacher": "Võ Thị Nguyên",
@@ -3313,7 +3313,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 34,
+          "classSize": 1,
           "schedule": [
             {
               "teacher": "Cao Minh Hồng Hạnh",
@@ -3367,7 +3367,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 34,
+          "classSize": 1,
           "schedule": [
             {
               "teacher": "Đỗ Xuân Tịnh",
@@ -3583,7 +3583,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 50,
+          "classSize": 49,
           "schedule": [
             {
               "teacher": "Nguyễn Phương Thảo",
@@ -3657,7 +3657,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 64,
+          "classSize": 28,
           "schedule": [
             {
               "teacher": "Hoàng Chu Hiệp",
@@ -3687,7 +3687,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 65,
+          "classSize": 8,
           "schedule": [
             {
               "teacher": "Hoàng Chu Hiệp",
@@ -3717,7 +3717,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 65,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Thanh Dung",
@@ -3755,7 +3755,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 95,
+          "classSize": 2,
           "schedule": [
             {
               "teacher": "Trần Thị Phương",
@@ -3809,7 +3809,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 94,
+          "classSize": 28,
           "schedule": [
             {
               "teacher": "Trần Thị Phương",
@@ -3871,7 +3871,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 50,
+          "classSize": 47,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Thanh Dung",
@@ -3893,7 +3893,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 49,
+          "classSize": 43,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Thanh Dung",
@@ -3937,7 +3937,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 47,
+          "classSize": 45,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Thanh Dung",
@@ -4019,7 +4019,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 40,
+          "classSize": 39,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Việt Hà",
@@ -4057,7 +4057,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 39,
+          "classSize": 38,
           "schedule": [
             {
               "teacher": "Huỳnh Thị Kim Quyên",
@@ -4095,7 +4095,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 40,
+          "classSize": 39,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Lệ Giang",
@@ -4133,7 +4133,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 40,
+          "classSize": 24,
           "schedule": [
             {
               "teacher": "Trần Thị Thanh Hoa",
@@ -4171,7 +4171,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 48,
+          "classSize": 39,
           "schedule": [
             {
               "teacher": "Lê Minh Thanh Châu",
@@ -4217,7 +4217,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 23,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Lê Minh Thanh Châu",
@@ -4337,7 +4337,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 20,
+          "classSize": 2,
           "schedule": [
             {
               "teacher": "Vũ Hoài Nam",
@@ -4547,7 +4547,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 40,
+          "classSize": 16,
           "schedule": [
             {
               "teacher": "Đỗ Cao Phúc",
@@ -4669,7 +4669,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 78,
+          "classSize": 55,
           "schedule": [
             {
               "teacher": "Trịnh Minh Đức",
@@ -4715,7 +4715,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 80,
+          "classSize": 66,
           "schedule": [
             {
               "teacher": "Trịnh Minh Đức",
@@ -4761,7 +4761,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 64,
+          "classSize": 43,
           "schedule": [
             {
               "teacher": "Nguyễn Ngọc Đức",
@@ -4799,7 +4799,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 77,
+          "classSize": 58,
           "schedule": [
             {
               "teacher": "Nguyễn Ngọc Đức",
@@ -4845,7 +4845,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 32,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Trúc Anh",
@@ -4946,84 +4946,6 @@
       ]
     },
     {
-      "courseId": "832061",
-      "name": "Nghiệp vụ ngân hàng thương mại",
-      "credits": 3,
-      "faculty": ["Kế toán"],
-      "groups": [
-        {
-          "groupId": "01",
-          "classSize": 5,
-          "schedule": [
-            {
-              "teacher": "Dương Thị Mai Phương",
-              "dayOfWeek": 2,
-              "startPeriod": 9,
-              "periodCount": 2,
-              "room": "2.B105",
-              "studyWeeks": [1]
-            },
-            {
-              "teacher": "Dương Thị Mai Phương",
-              "dayOfWeek": 2,
-              "startPeriod": 9,
-              "periodCount": 2,
-              "room": "2.B105",
-              "studyWeeks": [4, 5, 6, 7]
-            },
-            {
-              "teacher": "Dương Thị Mai Phương",
-              "dayOfWeek": 2,
-              "startPeriod": 9,
-              "periodCount": 2,
-              "room": "2.B105",
-              "studyWeeks": [8]
-            },
-            {
-              "teacher": "Dương Thị Mai Phương",
-              "dayOfWeek": 3,
-              "startPeriod": 1,
-              "periodCount": 3,
-              "room": "2.A101",
-              "studyWeeks": [1]
-            },
-            {
-              "teacher": "Dương Thị Mai Phương",
-              "dayOfWeek": 3,
-              "startPeriod": 1,
-              "periodCount": 3,
-              "room": "2.A101",
-              "studyWeeks": [4, 5, 6, 7]
-            },
-            {
-              "teacher": "Dương Thị Mai Phương",
-              "dayOfWeek": 3,
-              "startPeriod": 1,
-              "periodCount": 3,
-              "room": "2.A101",
-              "studyWeeks": [8]
-            },
-            {
-              "teacher": "Dương Thị Mai Phương",
-              "dayOfWeek": 4,
-              "startPeriod": 1,
-              "periodCount": 3,
-              "room": "2.A102",
-              "studyWeeks": [1]
-            },
-            {
-              "teacher": "Dương Thị Mai Phương",
-              "dayOfWeek": 4,
-              "startPeriod": 1,
-              "periodCount": 3,
-              "room": "2.A102",
-              "studyWeeks": [4, 5, 6, 7]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "courseId": "832107",
       "name": "Lý thuyết tài chính tiền tệ",
       "credits": 3,
@@ -5031,7 +4953,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 94,
+          "classSize": 88,
           "schedule": [
             {
               "teacher": "Lê Thông Tiến",
@@ -5077,7 +4999,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 93,
+          "classSize": 91,
           "schedule": [
             {
               "teacher": "Lê Thông Tiến",
@@ -5123,7 +5045,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 73,
+          "classSize": 61,
           "schedule": [
             {
               "teacher": "Lại Nhất Duy",
@@ -5169,7 +5091,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 75,
+          "classSize": 70,
           "schedule": [
             {
               "teacher": "Trương Nguyễn Tường Vy",
@@ -5215,7 +5137,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 79,
+          "classSize": 78,
           "schedule": [
             {
               "teacher": "Trương Nguyễn Tường Vy",
@@ -5269,7 +5191,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 104,
+          "classSize": 48,
           "schedule": [
             {
               "teacher": "Nguyễn Chương Thanh Hương",
@@ -5347,7 +5269,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 83,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Khanh Tuấn",
@@ -5409,7 +5331,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 109,
+          "classSize": 54,
           "schedule": [
             {
               "teacher": "Trần Minh Duy",
@@ -5447,7 +5369,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 108,
+          "classSize": 87,
           "schedule": [
             {
               "teacher": "Trần Minh Duy",
@@ -5485,7 +5407,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 98,
+          "classSize": 4,
           "schedule": [
             {
               "teacher": "Nguyễn Thanh Tâm",
@@ -5507,7 +5429,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 102,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Phạm Ngọc Diễm",
@@ -5529,7 +5451,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 96,
+          "classSize": 17,
           "schedule": [
             {
               "teacher": "Nguyễn Hà Minh",
@@ -5551,7 +5473,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 95,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Hoàng Đức Minh",
@@ -5573,7 +5495,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 93,
+          "classSize": 3,
           "schedule": [
             {
               "teacher": "Hoàng Đức Minh",
@@ -5595,7 +5517,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 89,
+          "classSize": 36,
           "schedule": [
             {
               "teacher": "Hoàng Đức Minh",
@@ -5625,7 +5547,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 82,
+          "classSize": 56,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Túy Lan",
@@ -5655,7 +5577,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 84,
+          "classSize": 22,
           "schedule": [
             {
               "teacher": "Đinh Thị Kiều Chinh",
@@ -5685,7 +5607,7 @@
       "groups": [
         {
           "groupId": "02",
-          "classSize": 48,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Ngọc Huyền",
@@ -5715,7 +5637,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 0,
+          "classSize": 3,
           "schedule": [
             {
               "teacher": "Nguyễn Ngọc Anh Thư",
@@ -5745,7 +5667,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 98,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Trần Thị Ngọc Quỳnh",
@@ -5783,7 +5705,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 94,
+          "classSize": 30,
           "schedule": [
             {
               "teacher": "Trần Thị Ngọc Quỳnh",
@@ -5813,7 +5735,7 @@
       "groups": [
         {
           "groupId": "03",
-          "classSize": 56,
+          "classSize": 49,
           "schedule": [
             {
               "teacher": "Cổ Tồn Minh Đăng",
@@ -5827,7 +5749,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 60,
+          "classSize": 50,
           "schedule": [
             {
               "teacher": "Cổ Tồn Minh Đăng",
@@ -5841,7 +5763,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 56,
+          "classSize": 53,
           "schedule": [
             {
               "teacher": "Cổ Tồn Minh Đăng",
@@ -5855,7 +5777,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 54,
+          "classSize": 52,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Giang",
@@ -5869,7 +5791,7 @@
         },
         {
           "groupId": "07",
-          "classSize": 53,
+          "classSize": 51,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Giang",
@@ -5883,7 +5805,7 @@
         },
         {
           "groupId": "08",
-          "classSize": 55,
+          "classSize": 54,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Giang",
@@ -5897,7 +5819,7 @@
         },
         {
           "groupId": "09",
-          "classSize": 58,
+          "classSize": 49,
           "schedule": [
             {
               "teacher": "Nguyễn Trung Tín",
@@ -5911,7 +5833,7 @@
         },
         {
           "groupId": "10",
-          "classSize": 58,
+          "classSize": 46,
           "schedule": [
             {
               "teacher": "Nguyễn Trung Tín",
@@ -5925,7 +5847,7 @@
         },
         {
           "groupId": "11",
-          "classSize": 59,
+          "classSize": 56,
           "schedule": [
             {
               "teacher": "Nguyễn Trung Tín",
@@ -5939,7 +5861,7 @@
         },
         {
           "groupId": "12",
-          "classSize": 57,
+          "classSize": 56,
           "schedule": [
             {
               "teacher": "Phan Tấn Quốc",
@@ -5961,7 +5883,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 90,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Ngô Thị Lan",
@@ -5991,7 +5913,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 25,
+          "classSize": 4,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Tuyết Nam",
@@ -6081,7 +6003,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 18,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Thu Hằng",
@@ -6111,7 +6033,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 23,
+          "classSize": 2,
           "schedule": [
             {
               "teacher": "Hồ Kỳ Quang Minh",
@@ -6141,7 +6063,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 25,
+          "classSize": 11,
           "schedule": [
             {
               "teacher": "Nguyễn Văn Trực",
@@ -6171,7 +6093,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 25,
+          "classSize": 4,
           "schedule": [
             {
               "teacher": "Nguyễn Văn Trực",
@@ -6201,7 +6123,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 25,
+          "classSize": 4,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Hoa",
@@ -6427,7 +6349,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 29,
+          "classSize": 28,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Thu Hằng",
@@ -6457,7 +6379,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 24,
+          "classSize": 3,
           "schedule": [
             {
               "teacher": "Đoàn Tuân",
@@ -6525,7 +6447,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 66,
+          "classSize": 8,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Hồng Trang",
@@ -6571,7 +6493,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 70,
+          "classSize": 12,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Hồng Trang",
@@ -6638,7 +6560,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 64,
+          "classSize": 7,
           "schedule": [
             {
               "teacher": "Nguyễn Mạnh Tiến",
@@ -6684,7 +6606,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 64,
+          "classSize": 1,
           "schedule": [
             {
               "teacher": "Nguyễn Mạnh Tiến",
@@ -6738,7 +6660,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 67,
+          "classSize": 14,
           "schedule": [
             {
               "teacher": "Nguyễn Văn Hợp",
@@ -6784,7 +6706,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 67,
+          "classSize": 19,
           "schedule": [
             {
               "teacher": "Nguyễn Văn Hợp",
@@ -6838,7 +6760,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 65,
+          "classSize": 7,
           "schedule": [
             {
               "teacher": "",
@@ -6964,7 +6886,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 38,
+          "classSize": 39,
           "schedule": [
             {
               "teacher": "",
@@ -7058,7 +6980,7 @@
       "groups": [
         {
           "groupId": "02",
-          "classSize": 63,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Phạm Quốc Hưng",
@@ -7080,7 +7002,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 64,
+          "classSize": 35,
           "schedule": [
             {
               "teacher": "Nguyễn Lê Thanh Giang",
@@ -7102,7 +7024,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 65,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Lê Thanh Giang",
@@ -7124,7 +7046,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 63,
+          "classSize": 1,
           "schedule": [
             {
               "teacher": "Phạm Nguyễn Quang Huy",
@@ -7146,7 +7068,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 65,
+          "classSize": 4,
           "schedule": [
             {
               "teacher": "Phạm Nguyễn Quang Huy",
@@ -7176,7 +7098,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 58,
+          "classSize": 47,
           "schedule": [
             {
               "teacher": "Cao Minh Hồng Hạnh",
@@ -7198,7 +7120,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 60,
+          "classSize": 10,
           "schedule": [
             {
               "teacher": "Cao Minh Hồng Hạnh",
@@ -7228,7 +7150,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 59,
+          "classSize": 49,
           "schedule": [
             {
               "teacher": "Nguyễn Trịnh Tố Anh",
@@ -7250,7 +7172,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 65,
+          "classSize": 52,
           "schedule": [
             {
               "teacher": "Nguyễn Dương Hoàng Minh",
@@ -7272,7 +7194,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 65,
+          "classSize": 45,
           "schedule": [
             {
               "teacher": "Nguyễn Dương Hoàng Minh",
@@ -7302,7 +7224,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 64,
+          "classSize": 42,
           "schedule": [
             {
               "teacher": "Lê Quốc Hồng Thi",
@@ -7324,7 +7246,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 63,
+          "classSize": 60,
           "schedule": [
             {
               "teacher": "Lê Quốc Hồng Thi",
@@ -7354,7 +7276,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 39,
+          "classSize": 10,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Thanh Duyên",
@@ -7400,7 +7322,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 35,
+          "classSize": 34,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Giang",
@@ -7492,7 +7414,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 34,
+          "classSize": 4,
           "schedule": [
             {
               "teacher": "",
@@ -7656,7 +7578,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 37,
+          "classSize": 31,
           "schedule": [
             {
               "teacher": "Huỳnh Tổ Hạp",
@@ -7694,7 +7616,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 44,
+          "classSize": 38,
           "schedule": [
             {
               "teacher": "Nguyễn Quốc Phong",
@@ -7732,7 +7654,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 23,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Quốc Phong",
@@ -7770,7 +7692,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 39,
+          "classSize": 28,
           "schedule": [
             {
               "teacher": "Nguyễn Quốc Phong",
@@ -7808,7 +7730,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 33,
+          "classSize": 16,
           "schedule": [
             {
               "teacher": "Nguyễn Võ Lam Giang",
@@ -7846,7 +7768,7 @@
         },
         {
           "groupId": "07",
-          "classSize": 35,
+          "classSize": 27,
           "schedule": [
             {
               "teacher": "Cổ Tồn Minh Đăng",
@@ -7892,7 +7814,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 143,
+          "classSize": 144,
           "schedule": [
             {
               "teacher": "",
@@ -8024,7 +7946,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 50,
+          "classSize": 47,
           "schedule": [
             {
               "teacher": "Trương Tấn Khoa",
@@ -8062,7 +7984,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 46,
+          "classSize": 12,
           "schedule": [
             {
               "teacher": "Phan Nguyệt Minh",
@@ -8100,7 +8022,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 41,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Huỳnh Nguyễn Khắc Huy",
@@ -8138,7 +8060,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 48,
+          "classSize": 34,
           "schedule": [
             {
               "teacher": "Nguyễn Duy Hàm",
@@ -8176,7 +8098,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 88,
+          "classSize": 79,
           "schedule": [
             {
               "teacher": "Hoàng Mạnh Hà",
@@ -8214,7 +8136,7 @@
         },
         {
           "groupId": "07",
-          "classSize": 44,
+          "classSize": 40,
           "schedule": [
             {
               "teacher": "Hoàng Mạnh Hà",
@@ -8252,7 +8174,7 @@
         },
         {
           "groupId": "08",
-          "classSize": 89,
+          "classSize": 50,
           "schedule": [
             {
               "teacher": "Hoàng Mạnh Hà",
@@ -8306,7 +8228,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 72,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Trung Tín",
@@ -8344,7 +8266,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 68,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Trung Tín",
@@ -8382,7 +8304,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 90,
+          "classSize": 28,
           "schedule": [
             {
               "teacher": "Hà Thanh Dũng",
@@ -8420,7 +8342,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 85,
+          "classSize": 59,
           "schedule": [
             {
               "teacher": "Hà Thanh Dũng",
@@ -8466,7 +8388,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 72,
+          "classSize": 48,
           "schedule": [
             {
               "teacher": "Nguyễn Quốc Huy",
@@ -8512,7 +8434,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 84,
+          "classSize": 77,
           "schedule": [
             {
               "teacher": "Đỗ Như Tài",
@@ -8550,7 +8472,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 81,
+          "classSize": 24,
           "schedule": [
             {
               "teacher": "Từ Lãng Phiêu",
@@ -8588,7 +8510,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 85,
+          "classSize": 65,
           "schedule": [
             {
               "teacher": "Từ Lãng Phiêu",
@@ -8634,7 +8556,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 72,
+          "classSize": 12,
           "schedule": [
             {
               "teacher": "Nguyễn Thanh Phước",
@@ -8688,7 +8610,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 51,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Ngọc Tú",
@@ -8734,7 +8656,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 41,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Ngọc Tú",
@@ -8788,7 +8710,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 46,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Phạm Duy Tính",
@@ -8834,7 +8756,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 39,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Phạm Duy Tính",
@@ -8934,7 +8856,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 26,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Lê Thị Bảo Như",
@@ -8980,7 +8902,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 82,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Hồ Xuân Hữu",
@@ -9026,7 +8948,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 87,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Hồ Xuân Hữu",
@@ -9072,7 +8994,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 71,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Hồ Xuân Hữu",
@@ -9118,7 +9040,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 78,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Hồ Xuân Hữu",
@@ -9172,7 +9094,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 99,
+          "classSize": 33,
           "schedule": [
             {
               "teacher": "Phạm Duy Tính",
@@ -9250,7 +9172,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 100,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Đặng Bửu Kiếm",
@@ -9304,7 +9226,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 102,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Vân Trang",
@@ -9326,7 +9248,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 19,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Vân Trang",
@@ -9356,7 +9278,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 15,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Lê Thị Ngọc Mai",
@@ -9378,7 +9300,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 82,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Lê Thị Ngọc Mai",
@@ -9408,7 +9330,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 115,
+          "classSize": 108,
           "schedule": [
             {
               "teacher": "Quách Thị Ngọc Thiện",
@@ -9430,7 +9352,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 109,
+          "classSize": 93,
           "schedule": [
             {
               "teacher": "Quách Thị Ngọc Thiện",
@@ -9460,7 +9382,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 107,
+          "classSize": 41,
           "schedule": [
             {
               "teacher": "Vũ Thế Hoài",
@@ -9482,7 +9404,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 110,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Vũ Thế Hoài",
@@ -9512,7 +9434,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 111,
+          "classSize": 109,
           "schedule": [
             {
               "teacher": "Lê Thị Ngọc Mai",
@@ -9534,7 +9456,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 109,
+          "classSize": 93,
           "schedule": [
             {
               "teacher": "Lê Thị Ngọc Mai",
@@ -9564,7 +9486,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 50,
+          "classSize": 48,
           "schedule": [
             {
               "teacher": "Nguyễn An Hòa",
@@ -9594,7 +9516,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 47,
+          "classSize": 46,
           "schedule": [
             {
               "teacher": "Phạm Đào Tiên",
@@ -9624,7 +9546,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 50,
+          "classSize": 15,
           "schedule": [
             {
               "teacher": "Trương Việt Khánh Trang",
@@ -9654,7 +9576,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 50,
+          "classSize": 13,
           "schedule": [
             {
               "teacher": "Trần Ngọc Cẩn",
@@ -9684,7 +9606,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 86,
+          "classSize": 84,
           "schedule": [
             {
               "teacher": "Nguyễn Văn Huấn",
@@ -9730,7 +9652,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 41,
+          "classSize": 2,
           "schedule": [
             {
               "teacher": "Thái Trần Phương Thảo",
@@ -9784,7 +9706,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 29,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Hoàng Đức Thắng",
@@ -9838,7 +9760,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 33,
+          "classSize": 13,
           "schedule": [
             {
               "teacher": "Trương Tấn",
@@ -9962,7 +9884,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 22,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Hữu Phúc",
@@ -9992,7 +9914,7 @@
         },
         {
           "groupId": "01",
-          "classSize": 23,
+          "classSize": 5,
           "schedule": [
             {
               "teacher": "Nguyễn Hữu Phúc",
@@ -10030,7 +9952,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 2,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Trần Minh Nhật",
@@ -10098,7 +10020,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 48,
+          "classSize": 46,
           "schedule": [
             {
               "teacher": "Nguyễn Phạm Quỳnh Anh",
@@ -10120,7 +10042,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 42,
+          "classSize": 22,
           "schedule": [
             {
               "teacher": "Nguyễn Phạm Quỳnh Anh",
@@ -10164,7 +10086,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 51,
+          "classSize": 45,
           "schedule": [
             {
               "teacher": "Nguyễn Việt Long",
@@ -10194,7 +10116,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 90,
+          "classSize": 86,
           "schedule": [
             {
               "teacher": "Lê Quốc Đán",
@@ -10216,7 +10138,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 107,
+          "classSize": 100,
           "schedule": [
             {
               "teacher": "Lê Quốc Đán",
@@ -10246,7 +10168,7 @@
       "groups": [
         {
           "groupId": "",
-          "classSize": 81,
+          "classSize": 9,
           "schedule": [
             {
               "teacher": "Lê Quốc Đán",
@@ -10276,7 +10198,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 24,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Dương Hiển Thuận",
@@ -10306,7 +10228,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 17,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Phạm Quỳnh Anh",
@@ -10336,7 +10258,7 @@
         },
         {
           "groupId": "01",
-          "classSize": 16,
+          "classSize": 2,
           "schedule": [
             {
               "teacher": "Nguyễn Phạm Quỳnh Anh",
@@ -10374,7 +10296,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 25,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Huỳnh Lê Minh Thiện",
@@ -10388,7 +10310,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 20,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Huỳnh Lê Minh Thiện",
@@ -10402,7 +10324,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 10,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Huỳnh Lê Minh Thiện",
@@ -10416,7 +10338,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 23,
+          "classSize": 1,
           "schedule": [
             {
               "teacher": "Huỳnh Lê Minh Thiện",
@@ -10430,7 +10352,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 21,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Huỳnh Lê Minh Thiện",
@@ -10444,7 +10366,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 22,
+          "classSize": 7,
           "schedule": [
             {
               "teacher": "Huỳnh Lê Minh Thiện",
@@ -10560,7 +10482,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 27,
+          "classSize": 7,
           "schedule": [
             {
               "teacher": "Nguyễn Anh Tuấn",
@@ -10574,7 +10496,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 27,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Anh Tuấn",
@@ -10588,7 +10510,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 21,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Anh Tuấn",
@@ -10602,7 +10524,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 27,
+          "classSize": 1,
           "schedule": [
             {
               "teacher": "Hà Triệu Phú",
@@ -10616,7 +10538,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 20,
+          "classSize": 7,
           "schedule": [
             {
               "teacher": "Hà Triệu Phú",
@@ -10630,7 +10552,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 26,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Hà Triệu Phú",
@@ -10832,7 +10754,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 70,
+          "classSize": 68,
           "schedule": [
             {
               "teacher": "Trần Thị Phương",
@@ -10876,7 +10798,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 70,
+          "classSize": 63,
           "schedule": [
             {
               "teacher": "Trần Thị Phương",
@@ -10906,7 +10828,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 100,
+          "classSize": 98,
           "schedule": [
             {
               "teacher": "Cao Thị Nga",
@@ -10928,7 +10850,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 100,
+          "classSize": 99,
           "schedule": [
             {
               "teacher": "Cao Thị Nga",
@@ -10958,7 +10880,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 95,
+          "classSize": 2,
           "schedule": [
             {
               "teacher": "Trần Ngọc Cẩn",
@@ -11004,7 +10926,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 106,
+          "classSize": 15,
           "schedule": [
             {
               "teacher": "Cao Thị Thanh Xuân",
@@ -11050,7 +10972,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 90,
+          "classSize": 8,
           "schedule": [
             {
               "teacher": "Nguyễn Hà Trang",
@@ -11128,7 +11050,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 42,
+          "classSize": 41,
           "schedule": [
             {
               "teacher": "Lê Tùng Lâm",
@@ -11158,7 +11080,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 43,
+          "classSize": 42,
           "schedule": [
             {
               "teacher": "Nguyễn Văn Đồng",
@@ -11196,7 +11118,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 45,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Trần Thị Cúc",
@@ -11266,7 +11188,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 44,
+          "classSize": 9,
           "schedule": [
             {
               "teacher": "Nguyễn Quang Minh Triết",
@@ -11338,13 +11260,13 @@
     },
     {
       "courseId": "854520",
-      "name": "Kỹ năng biên dịch",
+      "name": "Kỹ năng biên dịch (ngành Quốc tế học)",
       "credits": 2,
       "faculty": ["Quốc tế học"],
       "groups": [
         {
           "groupId": "01",
-          "classSize": 42,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Hồ Văn Bình",
@@ -11382,7 +11304,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 45,
+          "classSize": 4,
           "schedule": [
             {
               "teacher": "Trịnh Thu Hương",
@@ -11428,7 +11350,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 96,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Thu Hiền",
@@ -11466,7 +11388,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 96,
+          "classSize": 24,
           "schedule": [
             {
               "teacher": "Nguyễn Thu Hiền",
@@ -11496,7 +11418,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 70,
+          "classSize": 9,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Lan Hạnh",
@@ -11542,7 +11464,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 70,
+          "classSize": 10,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Lan Hạnh",
@@ -11596,7 +11518,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 69,
+          "classSize": 9,
           "schedule": [
             {
               "teacher": "Lê Quốc Hồng Thi",
@@ -11642,7 +11564,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 68,
+          "classSize": 7,
           "schedule": [
             {
               "teacher": "Lê Quốc Hồng Thi",
@@ -11804,7 +11726,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 86,
+          "classSize": 78,
           "schedule": [
             {
               "teacher": "Lê Đình Nghi",
@@ -11858,7 +11780,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 71,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Quốc Huy",
@@ -11934,7 +11856,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 60,
+          "classSize": 13,
           "schedule": [
             {
               "teacher": "Nguyễn Thanh Tâm",
@@ -11980,7 +11902,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 60,
+          "classSize": 17,
           "schedule": [
             {
               "teacher": "Nguyễn Hoàng Thanh Tâm",
@@ -12026,7 +11948,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 59,
+          "classSize": 17,
           "schedule": [
             {
               "teacher": "Nguyễn Thanh Tâm",
@@ -12056,7 +11978,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 113,
+          "classSize": 111,
           "schedule": [
             {
               "teacher": "Phạm Đào Thịnh",
@@ -12102,7 +12024,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 123,
+          "classSize": 122,
           "schedule": [
             {
               "teacher": "Phạm Đào Thịnh",
@@ -12148,7 +12070,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 106,
+          "classSize": 104,
           "schedule": [
             {
               "teacher": "Phạm Đào Thịnh",
@@ -12194,7 +12116,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 135,
+          "classSize": 127,
           "schedule": [
             {
               "teacher": "Phạm Đào Thịnh",
@@ -12240,7 +12162,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 98,
+          "classSize": 84,
           "schedule": [
             {
               "teacher": "Vũ Thị Gấm",
@@ -12310,7 +12232,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 109,
+          "classSize": 94,
           "schedule": [
             {
               "teacher": "Vũ Thị Gấm",
@@ -12388,7 +12310,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 130,
+          "classSize": 101,
           "schedule": [
             {
               "teacher": "Tống Thị Hạnh",
@@ -12426,7 +12348,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 138,
+          "classSize": 120,
           "schedule": [
             {
               "teacher": "Tống Thị Hạnh",
@@ -12464,7 +12386,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 104,
+          "classSize": 99,
           "schedule": [
             {
               "teacher": "Tống Thị Hạnh",
@@ -12502,7 +12424,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 129,
+          "classSize": 86,
           "schedule": [
             {
               "teacher": "Tống Thị Hạnh",
@@ -12540,7 +12462,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 106,
+          "classSize": 88,
           "schedule": [
             {
               "teacher": "Tống Thị Hạnh",
@@ -12578,7 +12500,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 139,
+          "classSize": 122,
           "schedule": [
             {
               "teacher": "Tống Thị Hạnh",
@@ -12616,7 +12538,7 @@
         },
         {
           "groupId": "07",
-          "classSize": 110,
+          "classSize": 80,
           "schedule": [
             {
               "teacher": "Trần Thị Thanh Hoa",
@@ -12654,7 +12576,7 @@
         },
         {
           "groupId": "08",
-          "classSize": 121,
+          "classSize": 44,
           "schedule": [
             {
               "teacher": "Trần Thị Thanh Hoa",
@@ -12692,7 +12614,7 @@
         },
         {
           "groupId": "09",
-          "classSize": 141,
+          "classSize": 123,
           "schedule": [
             {
               "teacher": "Trần Thị Thanh Hoa",
@@ -12730,7 +12652,7 @@
         },
         {
           "groupId": "10",
-          "classSize": 113,
+          "classSize": 85,
           "schedule": [
             {
               "teacher": "Trần Thị Thanh Hoa",
@@ -12768,7 +12690,7 @@
         },
         {
           "groupId": "11",
-          "classSize": 144,
+          "classSize": 142,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Lệ Giang",
@@ -12806,7 +12728,7 @@
         },
         {
           "groupId": "12",
-          "classSize": 144,
+          "classSize": 134,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Lệ Giang",
@@ -12844,7 +12766,7 @@
         },
         {
           "groupId": "13",
-          "classSize": 149,
+          "classSize": 144,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Lệ Giang",
@@ -12882,7 +12804,7 @@
         },
         {
           "groupId": "14",
-          "classSize": 142,
+          "classSize": 136,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Lệ Giang",
@@ -12920,7 +12842,7 @@
         },
         {
           "groupId": "15",
-          "classSize": 139,
+          "classSize": 128,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Lệ Giang",
@@ -12966,7 +12888,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 172,
+          "classSize": 165,
           "schedule": [
             {
               "teacher": "Vũ Công Thương",
@@ -13004,7 +12926,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 168,
+          "classSize": 143,
           "schedule": [
             {
               "teacher": "Vũ Công Thương",
@@ -13042,7 +12964,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 170,
+          "classSize": 139,
           "schedule": [
             {
               "teacher": "Vũ Công Thương",
@@ -13080,7 +13002,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 127,
+          "classSize": 102,
           "schedule": [
             {
               "teacher": "Vũ Công Thương",
@@ -13118,7 +13040,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 118,
+          "classSize": 100,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Hiền Oanh",
@@ -13156,7 +13078,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 123,
+          "classSize": 102,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Hiền Oanh",
@@ -13194,7 +13116,7 @@
         },
         {
           "groupId": "07",
-          "classSize": 134,
+          "classSize": 132,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Hiền Oanh",
@@ -13232,7 +13154,7 @@
         },
         {
           "groupId": "08",
-          "classSize": 129,
+          "classSize": 121,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Hiền Oanh",
@@ -13270,7 +13192,7 @@
         },
         {
           "groupId": "09",
-          "classSize": 116,
+          "classSize": 109,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Hương Giang",
@@ -13308,7 +13230,7 @@
         },
         {
           "groupId": "10",
-          "classSize": 118,
+          "classSize": 105,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Hương Giang",
@@ -13346,7 +13268,7 @@
         },
         {
           "groupId": "11",
-          "classSize": 114,
+          "classSize": 103,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Hương Giang",
@@ -13384,7 +13306,7 @@
         },
         {
           "groupId": "12",
-          "classSize": 128,
+          "classSize": 104,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Hương Giang",
@@ -13422,7 +13344,7 @@
         },
         {
           "groupId": "13",
-          "classSize": 118,
+          "classSize": 110,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Hương Giang",
@@ -13460,7 +13382,7 @@
         },
         {
           "groupId": "14",
-          "classSize": 100,
+          "classSize": 77,
           "schedule": [
             {
               "teacher": "Phạm Quốc Hương",
@@ -13498,7 +13420,7 @@
         },
         {
           "groupId": "15",
-          "classSize": 108,
+          "classSize": 90,
           "schedule": [
             {
               "teacher": "Phạm Quốc Hương",
@@ -13536,7 +13458,7 @@
         },
         {
           "groupId": "16",
-          "classSize": 103,
+          "classSize": 93,
           "schedule": [
             {
               "teacher": "Phạm Quốc Hương",
@@ -13574,7 +13496,7 @@
         },
         {
           "groupId": "17",
-          "classSize": 100,
+          "classSize": 67,
           "schedule": [
             {
               "teacher": "Phạm Quốc Hương",
@@ -13612,7 +13534,7 @@
         },
         {
           "groupId": "18",
-          "classSize": 74,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Trần Thị Tươi",
@@ -13650,7 +13572,7 @@
         },
         {
           "groupId": "19",
-          "classSize": 89,
+          "classSize": 31,
           "schedule": [
             {
               "teacher": "Trần Thị Tươi",
@@ -13688,7 +13610,7 @@
         },
         {
           "groupId": "20",
-          "classSize": 127,
+          "classSize": 65,
           "schedule": [
             {
               "teacher": "Trần Thị Tươi",
@@ -13726,7 +13648,7 @@
         },
         {
           "groupId": "21",
-          "classSize": 59,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Trần Thị Tươi",
@@ -13772,7 +13694,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 2,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Phạm Phúc Vĩnh",
@@ -13794,7 +13716,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 35,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Phạm Phúc Vĩnh",
@@ -13816,7 +13738,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 127,
+          "classSize": 1,
           "schedule": [
             {
               "teacher": "Huỳnh Thị Kim Quyên",
@@ -13838,7 +13760,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 19,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Huỳnh Thị Kim Quyên",
@@ -13860,7 +13782,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 1,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Huỳnh Thị Kim Quyên",
@@ -13882,7 +13804,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 103,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Huỳnh Thị Kim Quyên",
@@ -13904,7 +13826,7 @@
         },
         {
           "groupId": "07",
-          "classSize": 58,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Huỳnh Thị Kim Quyên",
@@ -13926,7 +13848,7 @@
         },
         {
           "groupId": "08",
-          "classSize": 92,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Huỳnh Thị Kim Quyên",
@@ -13948,7 +13870,7 @@
         },
         {
           "groupId": "09",
-          "classSize": 40,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Huỳnh Thị Kim Quyên",
@@ -13970,7 +13892,7 @@
         },
         {
           "groupId": "10",
-          "classSize": 99,
+          "classSize": 1,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Việt Hà",
@@ -14008,7 +13930,7 @@
         },
         {
           "groupId": "11",
-          "classSize": 118,
+          "classSize": 5,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Việt Hà",
@@ -14046,7 +13968,7 @@
         },
         {
           "groupId": "12",
-          "classSize": 144,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Việt Hà",
@@ -14084,7 +14006,7 @@
         },
         {
           "groupId": "13",
-          "classSize": 118,
+          "classSize": 42,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Việt Hà",
@@ -14122,7 +14044,7 @@
         },
         {
           "groupId": "14",
-          "classSize": 97,
+          "classSize": 46,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Việt Hà",
@@ -14160,7 +14082,7 @@
         },
         {
           "groupId": "15",
-          "classSize": 118,
+          "classSize": 51,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Việt Hà",
@@ -14228,7 +14150,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 10,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Mai Thúc Hiệp",
@@ -14250,7 +14172,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 76,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Mai Thúc Hiệp",
@@ -14288,7 +14210,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 52,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Mai Thúc Hiệp",
@@ -14326,7 +14248,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 98,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Mai Thúc Hiệp",
@@ -14364,7 +14286,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 34,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Mai Thúc Hiệp",
@@ -14402,7 +14324,7 @@
         },
         {
           "groupId": "07",
-          "classSize": 2,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Phạm Văn Phương",
@@ -14424,7 +14346,7 @@
         },
         {
           "groupId": "08",
-          "classSize": 1,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Phạm Văn Phương",
@@ -14490,7 +14412,7 @@
         },
         {
           "groupId": "11",
-          "classSize": 1,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Phạm Văn Phương",
@@ -14520,7 +14442,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 34,
+          "classSize": 27,
           "schedule": [
             {
               "teacher": "Đoàn Lê Quế Trân",
@@ -14542,7 +14464,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 40,
+          "classSize": 36,
           "schedule": [
             {
               "teacher": "Đặng Minh Quân",
@@ -14564,7 +14486,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 40,
+          "classSize": 38,
           "schedule": [
             {
               "teacher": "Đoàn Lê Quế Trân",
@@ -14586,7 +14508,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 39,
+          "classSize": 38,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Hoàng Anh",
@@ -14608,7 +14530,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 31,
+          "classSize": 27,
           "schedule": [
             {
               "teacher": "Đỗ Thụy Hội Uyên",
@@ -14630,7 +14552,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 35,
+          "classSize": 33,
           "schedule": [
             {
               "teacher": "Đỗ Thụy Hội Uyên",
@@ -14652,7 +14574,7 @@
         },
         {
           "groupId": "07",
-          "classSize": 32,
+          "classSize": 23,
           "schedule": [
             {
               "teacher": "Đỗ Thụy Hội Uyên",
@@ -14674,7 +14596,7 @@
         },
         {
           "groupId": "08",
-          "classSize": 40,
+          "classSize": 38,
           "schedule": [
             {
               "teacher": "Lê Thiện Khiêm",
@@ -14696,7 +14618,7 @@
         },
         {
           "groupId": "09",
-          "classSize": 38,
+          "classSize": 31,
           "schedule": [
             {
               "teacher": "Lê Thiện Khiêm",
@@ -14718,7 +14640,7 @@
         },
         {
           "groupId": "10",
-          "classSize": 38,
+          "classSize": 36,
           "schedule": [
             {
               "teacher": "Huỳnh Thanh Sơn",
@@ -14740,7 +14662,7 @@
         },
         {
           "groupId": "11",
-          "classSize": 38,
+          "classSize": 32,
           "schedule": [
             {
               "teacher": "Tô Thị Hương",
@@ -14762,7 +14684,7 @@
         },
         {
           "groupId": "12",
-          "classSize": 37,
+          "classSize": 35,
           "schedule": [
             {
               "teacher": "Tô Thị Hương",
@@ -14806,7 +14728,7 @@
         },
         {
           "groupId": "14",
-          "classSize": 36,
+          "classSize": 35,
           "schedule": [
             {
               "teacher": "Tô Thị Hương",
@@ -14850,7 +14772,7 @@
         },
         {
           "groupId": "16",
-          "classSize": 39,
+          "classSize": 35,
           "schedule": [
             {
               "teacher": "Võ Lê Minh",
@@ -14872,7 +14794,7 @@
         },
         {
           "groupId": "17",
-          "classSize": 39,
+          "classSize": 36,
           "schedule": [
             {
               "teacher": "Đoàn Lê Quế Trân",
@@ -14894,7 +14816,7 @@
         },
         {
           "groupId": "18",
-          "classSize": 35,
+          "classSize": 32,
           "schedule": [
             {
               "teacher": "Nguyễn Hùng Dũng",
@@ -14916,7 +14838,7 @@
         },
         {
           "groupId": "19",
-          "classSize": 39,
+          "classSize": 37,
           "schedule": [
             {
               "teacher": "Nguyễn Hùng Dũng",
@@ -14938,7 +14860,7 @@
         },
         {
           "groupId": "20",
-          "classSize": 33,
+          "classSize": 30,
           "schedule": [
             {
               "teacher": "Nguyễn Đỗ Minh Sơn",
@@ -14968,7 +14890,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 119,
+          "classSize": 118,
           "schedule": [
             {
               "teacher": "Trần Văn Diện",
@@ -14998,7 +14920,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 120,
+          "classSize": 110,
           "schedule": [
             {
               "teacher": "Trần Văn Diện",
@@ -15028,7 +14950,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 120,
+          "classSize": 119,
           "schedule": [
             {
               "teacher": "Trần Văn Diện",
@@ -15058,7 +14980,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 115,
+          "classSize": 106,
           "schedule": [
             {
               "teacher": "Trần Văn Diện",
@@ -15088,7 +15010,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 119,
+          "classSize": 113,
           "schedule": [
             {
               "teacher": "Trần Văn Diện",
@@ -15118,7 +15040,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 120,
+          "classSize": 112,
           "schedule": [
             {
               "teacher": "Dương Ngọc Trường",
@@ -15178,7 +15100,7 @@
         },
         {
           "groupId": "08",
-          "classSize": 120,
+          "classSize": 105,
           "schedule": [
             {
               "teacher": "Nguyễn Đức Trọng",
@@ -15208,7 +15130,7 @@
         },
         {
           "groupId": "09",
-          "classSize": 119,
+          "classSize": 88,
           "schedule": [
             {
               "teacher": "Nguyễn Trung Sơn",
@@ -15238,7 +15160,7 @@
         },
         {
           "groupId": "10",
-          "classSize": 120,
+          "classSize": 116,
           "schedule": [
             {
               "teacher": "Nguyễn Trung Sơn",
@@ -15276,7 +15198,7 @@
         },
         {
           "groupId": "11",
-          "classSize": 119,
+          "classSize": 109,
           "schedule": [
             {
               "teacher": "Nguyễn Trung Sơn",
@@ -15306,7 +15228,7 @@
         },
         {
           "groupId": "12",
-          "classSize": 120,
+          "classSize": 114,
           "schedule": [
             {
               "teacher": "Nguyễn Trung Sơn",
@@ -15336,7 +15258,7 @@
         },
         {
           "groupId": "13",
-          "classSize": 120,
+          "classSize": 118,
           "schedule": [
             {
               "teacher": "Nguyễn Trung Sơn",
@@ -15374,7 +15296,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 113,
+          "classSize": 84,
           "schedule": [
             {
               "teacher": "Nguyễn Đức Trọng",
@@ -15404,7 +15326,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 115,
+          "classSize": 110,
           "schedule": [
             {
               "teacher": "Trần Văn Diện",
@@ -15434,7 +15356,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 119,
+          "classSize": 113,
           "schedule": [
             {
               "teacher": "Trần Văn Diện",
@@ -15464,7 +15386,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 116,
+          "classSize": 110,
           "schedule": [
             {
               "teacher": "Trần Văn Diện",
@@ -15494,7 +15416,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 117,
+          "classSize": 108,
           "schedule": [
             {
               "teacher": "Trần Văn Diện",
@@ -15524,7 +15446,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 119,
+          "classSize": 116,
           "schedule": [
             {
               "teacher": "Trần Văn Diện",
@@ -15554,7 +15476,7 @@
         },
         {
           "groupId": "07",
-          "classSize": 118,
+          "classSize": 106,
           "schedule": [
             {
               "teacher": "Nguyễn Đức Trọng",
@@ -15584,7 +15506,7 @@
         },
         {
           "groupId": "08",
-          "classSize": 117,
+          "classSize": 110,
           "schedule": [
             {
               "teacher": "Trần Văn Diện",
@@ -15614,7 +15536,7 @@
         },
         {
           "groupId": "09",
-          "classSize": 118,
+          "classSize": 113,
           "schedule": [
             {
               "teacher": "Dương Ngọc Trường",
@@ -15644,7 +15566,7 @@
         },
         {
           "groupId": "10",
-          "classSize": 109,
+          "classSize": 54,
           "schedule": [
             {
               "teacher": "Dương Ngọc Trường",
@@ -15674,7 +15596,7 @@
         },
         {
           "groupId": "11",
-          "classSize": 118,
+          "classSize": 113,
           "schedule": [
             {
               "teacher": "Nguyễn Trung Sơn",
@@ -15704,7 +15626,7 @@
         },
         {
           "groupId": "12",
-          "classSize": 106,
+          "classSize": 69,
           "schedule": [
             {
               "teacher": "Nguyễn Trung Sơn",
@@ -15734,7 +15656,7 @@
         },
         {
           "groupId": "13",
-          "classSize": 108,
+          "classSize": 56,
           "schedule": [
             {
               "teacher": "Nguyễn Đức Trọng",
@@ -15756,7 +15678,7 @@
         },
         {
           "groupId": "14",
-          "classSize": 113,
+          "classSize": 99,
           "schedule": [
             {
               "teacher": "Nguyễn Trung Sơn",
@@ -15786,7 +15708,7 @@
         },
         {
           "groupId": "15",
-          "classSize": 111,
+          "classSize": 71,
           "schedule": [
             {
               "teacher": "Nguyễn Trung Sơn",
@@ -15824,7 +15746,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 70,
+          "classSize": 64,
           "schedule": [
             {
               "teacher": "Trương Đình Bảo Hương",
@@ -15854,7 +15776,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 98,
+          "classSize": 77,
           "schedule": [
             {
               "teacher": "Lý Kiều Hưng",
@@ -15876,7 +15798,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 114,
+          "classSize": 98,
           "schedule": [
             {
               "teacher": "Trương Đình Bảo Hương",
@@ -15898,7 +15820,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 105,
+          "classSize": 74,
           "schedule": [
             {
               "teacher": "Trương Đình Bảo Hương",
@@ -15928,7 +15850,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 108,
+          "classSize": 100,
           "schedule": [
             {
               "teacher": "Đặng Thị Thanh Hà",
@@ -15950,7 +15872,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 112,
+          "classSize": 104,
           "schedule": [
             {
               "teacher": "Đặng Thị Thanh Hà",
@@ -15972,7 +15894,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 79,
+          "classSize": 77,
           "schedule": [
             {
               "teacher": "Hoàng Mạnh Khương",
@@ -16032,7 +15954,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 1,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Trần Đức Thành",
@@ -16240,7 +16162,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 65,
+          "classSize": 31,
           "schedule": [
             {
               "teacher": "Nguyễn Ái Quốc",
@@ -16294,7 +16216,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 104,
+          "classSize": 91,
           "schedule": [
             {
               "teacher": "Trần Đức Thành",
@@ -16340,7 +16262,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 39,
+          "classSize": 4,
           "schedule": [
             {
               "teacher": "Trần Thanh Bình",
@@ -16394,7 +16316,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 74,
+          "classSize": 65,
           "schedule": [
             {
               "teacher": "Chế Thị Kim Phụng",
@@ -16448,7 +16370,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 97,
+          "classSize": 58,
           "schedule": [
             {
               "teacher": "Bùi Đình Thắng",
@@ -16502,7 +16424,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 119,
+          "classSize": 98,
           "schedule": [
             {
               "teacher": "Trần Thanh Bình",
@@ -16532,7 +16454,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 66,
+          "classSize": 59,
           "schedule": [
             {
               "teacher": "Nguyễn Mạnh Tiến",
@@ -16562,7 +16484,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 75,
+          "classSize": 69,
           "schedule": [
             {
               "teacher": "Bùi Gia Khánh",
@@ -16622,7 +16544,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 93,
+          "classSize": 40,
           "schedule": [
             {
               "teacher": "Vũ Thị Gấm",
@@ -16652,7 +16574,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 117,
+          "classSize": 114,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Thanh Bình",
@@ -16696,7 +16618,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 114,
+          "classSize": 99,
           "schedule": [
             {
               "teacher": "Đinh Thị Thanh Nga",
@@ -16718,7 +16640,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 101,
+          "classSize": 54,
           "schedule": [
             {
               "teacher": "Nguyễn Lâm Trâm Anh",
@@ -16740,7 +16662,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 81,
+          "classSize": 41,
           "schedule": [
             {
               "teacher": "Luyện Đức Anh",
@@ -16762,7 +16684,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 94,
+          "classSize": 71,
           "schedule": [
             {
               "teacher": "Luyện Đức Anh",
@@ -16784,7 +16706,7 @@
         },
         {
           "groupId": "07",
-          "classSize": 93,
+          "classSize": 83,
           "schedule": [
             {
               "teacher": "Quách Thị Ngọc Thiện",
@@ -16806,7 +16728,7 @@
         },
         {
           "groupId": "08",
-          "classSize": 105,
+          "classSize": 64,
           "schedule": [
             {
               "teacher": "Phạm Thị Hồng Mỵ",
@@ -16828,7 +16750,7 @@
         },
         {
           "groupId": "09",
-          "classSize": 115,
+          "classSize": 109,
           "schedule": [
             {
               "teacher": "Phạm Thị Hồng Mỵ",
@@ -16850,7 +16772,7 @@
         },
         {
           "groupId": "10",
-          "classSize": 106,
+          "classSize": 99,
           "schedule": [
             {
               "teacher": "Phạm Thị Hồng Mỵ",
@@ -16872,7 +16794,7 @@
         },
         {
           "groupId": "11",
-          "classSize": 86,
+          "classSize": 34,
           "schedule": [
             {
               "teacher": "Phạm Thị Hồng Mỵ",
@@ -16894,7 +16816,7 @@
         },
         {
           "groupId": "12",
-          "classSize": 116,
+          "classSize": 113,
           "schedule": [
             {
               "teacher": "Đào Thị Diệu Thương",
@@ -16916,7 +16838,7 @@
         },
         {
           "groupId": "13",
-          "classSize": 104,
+          "classSize": 96,
           "schedule": [
             {
               "teacher": "Đào Thị Diệu Thương",
@@ -16938,7 +16860,7 @@
         },
         {
           "groupId": "14",
-          "classSize": 91,
+          "classSize": 76,
           "schedule": [
             {
               "teacher": "Đào Thị Diệu Thương",
@@ -16960,7 +16882,7 @@
         },
         {
           "groupId": "15",
-          "classSize": 107,
+          "classSize": 89,
           "schedule": [
             {
               "teacher": "Quách Thị Ngọc Thiện",
@@ -16982,7 +16904,7 @@
         },
         {
           "groupId": "16",
-          "classSize": 118,
+          "classSize": 111,
           "schedule": [
             {
               "teacher": "Nguyễn Song Ngọc Chung",
@@ -17004,7 +16926,7 @@
         },
         {
           "groupId": "17",
-          "classSize": 113,
+          "classSize": 112,
           "schedule": [
             {
               "teacher": "Nguyễn Song Ngọc Chung",
@@ -17026,7 +16948,7 @@
         },
         {
           "groupId": "18",
-          "classSize": 94,
+          "classSize": 30,
           "schedule": [
             {
               "teacher": "Nguyễn Song Ngọc Chung",
@@ -17086,7 +17008,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 97,
+          "classSize": 78,
           "schedule": [
             {
               "teacher": "Nguyễn Lương Thái Bình",
@@ -17116,7 +17038,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 35,
+          "classSize": 27,
           "schedule": [
             {
               "teacher": "Đặng Ngọc Bảo Hiền",
@@ -17138,7 +17060,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 39,
+          "classSize": 36,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Như Điệp",
@@ -17160,7 +17082,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 37,
+          "classSize": 35,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Như Điệp",
@@ -17182,7 +17104,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 39,
+          "classSize": 32,
           "schedule": [
             {
               "teacher": "Phạm Thùy Ngọc Trang",
@@ -17204,7 +17126,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 40,
+          "classSize": 37,
           "schedule": [
             {
               "teacher": "Phạm Văn Chiến",
@@ -17226,7 +17148,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 38,
+          "classSize": 32,
           "schedule": [
             {
               "teacher": "Trần Thị Cúc",
@@ -17248,7 +17170,7 @@
         },
         {
           "groupId": "07",
-          "classSize": 39,
+          "classSize": 33,
           "schedule": [
             {
               "teacher": "Trần Thị Cúc",
@@ -17292,7 +17214,7 @@
         },
         {
           "groupId": "09",
-          "classSize": 39,
+          "classSize": 35,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Huệ",
@@ -17314,7 +17236,7 @@
         },
         {
           "groupId": "10",
-          "classSize": 30,
+          "classSize": 28,
           "schedule": [
             {
               "teacher": "Doãn Thị Thúy Liễu",
@@ -17336,7 +17258,7 @@
         },
         {
           "groupId": "11",
-          "classSize": 35,
+          "classSize": 32,
           "schedule": [
             {
               "teacher": "Doãn Thị Thúy Liễu",
@@ -17358,7 +17280,7 @@
         },
         {
           "groupId": "12",
-          "classSize": 36,
+          "classSize": 21,
           "schedule": [
             {
               "teacher": "Bùi Nguyễn Nguyệt Minh",
@@ -17380,7 +17302,7 @@
         },
         {
           "groupId": "13",
-          "classSize": 40,
+          "classSize": 38,
           "schedule": [
             {
               "teacher": "Huỳnh Thị Nhật Uyên",
@@ -17402,7 +17324,7 @@
         },
         {
           "groupId": "14",
-          "classSize": 32,
+          "classSize": 21,
           "schedule": [
             {
               "teacher": "Trịnh Hoàng Thanh Thảo",
@@ -17424,7 +17346,7 @@
         },
         {
           "groupId": "15",
-          "classSize": 38,
+          "classSize": 36,
           "schedule": [
             {
               "teacher": "Trịnh Hoàng Thanh Thảo",
@@ -17454,7 +17376,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 30,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Bùi Diễm Hạnh",
@@ -17476,7 +17398,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 39,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Trần Thị Kim Tuyến",
@@ -17498,7 +17420,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 35,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Trần Thị Kim Tuyến",
@@ -17520,7 +17442,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 39,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Trần Đăng Khôi",
@@ -17542,7 +17464,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 38,
+          "classSize": 4,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Hoàng Lan",
@@ -17564,7 +17486,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 40,
+          "classSize": 5,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Hoàng Lan",
@@ -17586,7 +17508,7 @@
         },
         {
           "groupId": "07",
-          "classSize": 37,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Đỗ Tiến Lộc",
@@ -17608,7 +17530,7 @@
         },
         {
           "groupId": "08",
-          "classSize": 37,
+          "classSize": 1,
           "schedule": [
             {
               "teacher": "Nguyễn Dương Hoàng Minh",
@@ -17630,7 +17552,7 @@
         },
         {
           "groupId": "09",
-          "classSize": 39,
+          "classSize": 2,
           "schedule": [
             {
               "teacher": "Đặng Vũ Minh Thư",
@@ -17652,7 +17574,7 @@
         },
         {
           "groupId": "10",
-          "classSize": 36,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Đặng Vũ Minh Thư",
@@ -17674,7 +17596,7 @@
         },
         {
           "groupId": "11",
-          "classSize": 37,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Bùi Nguyễn Nguyệt Minh",
@@ -17696,7 +17618,7 @@
         },
         {
           "groupId": "12",
-          "classSize": 39,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Bùi Nguyễn Nguyệt Minh",
@@ -17718,7 +17640,7 @@
         },
         {
           "groupId": "13",
-          "classSize": 38,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Hồng Quỳnh Như",
@@ -17740,7 +17662,7 @@
         },
         {
           "groupId": "14",
-          "classSize": 34,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Hồng Quỳnh Như",
@@ -17762,7 +17684,7 @@
         },
         {
           "groupId": "15",
-          "classSize": 40,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Ngọc Anh Thư",
@@ -17784,7 +17706,7 @@
         },
         {
           "groupId": "16",
-          "classSize": 37,
+          "classSize": 23,
           "schedule": [
             {
               "teacher": "Nguyễn Ngọc Anh Thư",
@@ -17806,7 +17728,7 @@
         },
         {
           "groupId": "17",
-          "classSize": 35,
+          "classSize": 3,
           "schedule": [
             {
               "teacher": "Nguyễn Ngọc Thiên Tú",
@@ -17836,7 +17758,7 @@
         },
         {
           "groupId": "18",
-          "classSize": 24,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Ngọc Thiên Tú",
@@ -17866,7 +17788,7 @@
         },
         {
           "groupId": "19",
-          "classSize": 35,
+          "classSize": 11,
           "schedule": [
             {
               "teacher": "Phạm Quốc Hưng",
@@ -17896,7 +17818,7 @@
         },
         {
           "groupId": "20",
-          "classSize": 40,
+          "classSize": 8,
           "schedule": [
             {
               "teacher": "Phạm Quốc Hưng",
@@ -17934,7 +17856,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 39,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Võ Đào Vương Cơ",
@@ -17956,7 +17878,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 36,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Lê Thanh Giang",
@@ -17978,7 +17900,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 32,
+          "classSize": 1,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Hà",
@@ -18000,7 +17922,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 35,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Phạm Nguyễn Quang Huy",
@@ -18022,7 +17944,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 35,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Phạm Nguyễn Quang Huy",
@@ -18044,7 +17966,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 32,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Hà Nguyễn Tuyết Minh",
@@ -18066,7 +17988,7 @@
         },
         {
           "groupId": "07",
-          "classSize": 34,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Dương Hoàng Minh",
@@ -18088,7 +18010,7 @@
         },
         {
           "groupId": "08",
-          "classSize": 38,
+          "classSize": 19,
           "schedule": [
             {
               "teacher": "Đào Lê Trọng Nhân",
@@ -18110,7 +18032,7 @@
         },
         {
           "groupId": "09",
-          "classSize": 39,
+          "classSize": 27,
           "schedule": [
             {
               "teacher": "Trần Quang Loan Tuyền",
@@ -18132,7 +18054,7 @@
         },
         {
           "groupId": "10",
-          "classSize": 37,
+          "classSize": 15,
           "schedule": [
             {
               "teacher": "Trần Quang Loan Tuyền",
@@ -18154,7 +18076,7 @@
         },
         {
           "groupId": "11",
-          "classSize": 40,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Thu Vân",
@@ -18176,7 +18098,7 @@
         },
         {
           "groupId": "12",
-          "classSize": 35,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Trần Thị Kim Tuyến",
@@ -18198,7 +18120,7 @@
         },
         {
           "groupId": "13",
-          "classSize": 35,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Lê Thị Vân",
@@ -18220,7 +18142,7 @@
         },
         {
           "groupId": "14",
-          "classSize": 35,
+          "classSize": 6,
           "schedule": [
             {
               "teacher": "Mai Hoàng Việt",
@@ -18242,7 +18164,7 @@
         },
         {
           "groupId": "15",
-          "classSize": 38,
+          "classSize": 8,
           "schedule": [
             {
               "teacher": "Mai Hoàng Việt",
@@ -18264,7 +18186,7 @@
         },
         {
           "groupId": "16",
-          "classSize": 38,
+          "classSize": 14,
           "schedule": [
             {
               "teacher": "Vũ Thị Kim Chi",
@@ -18294,7 +18216,7 @@
         },
         {
           "groupId": "17",
-          "classSize": 29,
+          "classSize": 11,
           "schedule": [
             {
               "teacher": "Vũ Thị Kim Chi",
@@ -18324,7 +18246,7 @@
         },
         {
           "groupId": "18",
-          "classSize": 29,
+          "classSize": 5,
           "schedule": [
             {
               "teacher": "Nguyễn Hoàng Thanh Tâm",
@@ -18354,7 +18276,7 @@
         },
         {
           "groupId": "19",
-          "classSize": 31,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Hoàng Thanh Tâm",
@@ -18384,7 +18306,7 @@
         },
         {
           "groupId": "20",
-          "classSize": 35,
+          "classSize": 21,
           "schedule": [
             {
               "teacher": "Lê Thị Vân",
@@ -18422,7 +18344,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 14,
+          "classSize": 2,
           "schedule": [
             {
               "teacher": "Thái Trần Phương Thảo",
@@ -18468,7 +18390,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 52,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Lê Thị Bảo Như",
@@ -18514,7 +18436,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 100,
+          "classSize": 55,
           "schedule": [
             {
               "teacher": "Huỳnh Minh Quân",
@@ -18536,7 +18458,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 96,
+          "classSize": 67,
           "schedule": [
             {
               "teacher": "Huỳnh Minh Quân",
@@ -18558,7 +18480,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 82,
+          "classSize": 20,
           "schedule": [
             {
               "teacher": "Huỳnh Minh Quân",
@@ -18580,7 +18502,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 79,
+          "classSize": 44,
           "schedule": [
             {
               "teacher": "Huỳnh Minh Quân",
@@ -18602,7 +18524,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 69,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Huỳnh Minh Quân",
@@ -18632,7 +18554,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 102,
+          "classSize": 101,
           "schedule": [
             {
               "teacher": "Từ Minh Khai",
@@ -18662,7 +18584,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 70,
+          "classSize": 66,
           "schedule": [
             {
               "teacher": "Trần Sơn Lâm",
@@ -18754,7 +18676,7 @@
       "groups": [
         {
           "groupId": "03",
-          "classSize": 58,
+          "classSize": 45,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Ngọc Huyền",
@@ -18784,7 +18706,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 63,
+          "classSize": 24,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Vân Khánh",
@@ -18838,7 +18760,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 114,
+          "classSize": 58,
           "schedule": [
             {
               "teacher": "Nguyễn Thế Minh",
@@ -18884,7 +18806,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 110,
+          "classSize": 83,
           "schedule": [
             {
               "teacher": "Lê Minh Tuấn",
@@ -18954,7 +18876,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 103,
+          "classSize": 73,
           "schedule": [
             {
               "teacher": "Lê Minh Tuấn",
@@ -19024,7 +18946,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 112,
+          "classSize": 86,
           "schedule": [
             {
               "teacher": "Lê Minh Tuấn",
@@ -19094,7 +19016,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 70,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Thái Trần Phương Thảo",
@@ -19132,7 +19054,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 83,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Thái Trần Phương Thảo",
@@ -19178,7 +19100,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 54,
+          "classSize": 1,
           "schedule": [
             {
               "teacher": "Nguyễn Trịnh Tố Anh",
@@ -19256,7 +19178,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 100,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Anh Hiền",
@@ -19456,7 +19378,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 1,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Hoàng Anh",
@@ -19500,7 +19422,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 16,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Hoàng Anh",
@@ -19522,7 +19444,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 18,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Hoàng Anh",
@@ -19632,7 +19554,7 @@
         },
         {
           "groupId": "09",
-          "classSize": 7,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Đỗ Thụy Hội Uyên",
@@ -19662,7 +19584,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 1,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Thị Hoàng Anh",
@@ -19692,7 +19614,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 25,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Lê Thiện Khiêm",
@@ -19714,7 +19636,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 31,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Lê Thiện Khiêm",
@@ -19736,7 +19658,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 32,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Lê Thiện Khiêm",
@@ -19758,7 +19680,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 36,
+          "classSize": 2,
           "schedule": [
             {
               "teacher": "Lê Thiện Khiêm",
@@ -19780,7 +19702,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 35,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Lê Thiện Khiêm",
@@ -19802,7 +19724,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 11,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Huỳnh Thanh Sơn",
@@ -19824,7 +19746,7 @@
         },
         {
           "groupId": "07",
-          "classSize": 33,
+          "classSize": 10,
           "schedule": [
             {
               "teacher": "Huỳnh Thanh Sơn",
@@ -19846,7 +19768,7 @@
         },
         {
           "groupId": "08",
-          "classSize": 25,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Huỳnh Thanh Sơn",
@@ -19868,7 +19790,7 @@
         },
         {
           "groupId": "09",
-          "classSize": 31,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Huỳnh Thanh Sơn",
@@ -19890,7 +19812,7 @@
         },
         {
           "groupId": "10",
-          "classSize": 29,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Huỳnh Thanh Sơn",
@@ -19912,7 +19834,7 @@
         },
         {
           "groupId": "11",
-          "classSize": 35,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Tô Thị Hương",
@@ -19934,7 +19856,7 @@
         },
         {
           "groupId": "12",
-          "classSize": 29,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Tô Thị Hương",
@@ -19964,7 +19886,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 1,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Huỳnh Thanh Sơn",
@@ -19994,7 +19916,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 36,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Võ Lê Minh",
@@ -20016,7 +19938,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 35,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Võ Lê Minh",
@@ -20038,7 +19960,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 32,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Võ Lê Minh",
@@ -20060,7 +19982,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 40,
+          "classSize": 22,
           "schedule": [
             {
               "teacher": "Võ Lê Minh",
@@ -20082,7 +20004,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 33,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Lê Vũ Ngọc Toàn",
@@ -20104,7 +20026,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 39,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Lê Vũ Ngọc Toàn",
@@ -20126,7 +20048,7 @@
         },
         {
           "groupId": "07",
-          "classSize": 38,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Lê Vũ Ngọc Toàn",
@@ -20148,7 +20070,7 @@
         },
         {
           "groupId": "08",
-          "classSize": 34,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Lê Vũ Ngọc Toàn",
@@ -20170,7 +20092,7 @@
         },
         {
           "groupId": "09",
-          "classSize": 23,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Lê Vũ Ngọc Toàn",
@@ -20192,7 +20114,7 @@
         },
         {
           "groupId": "10",
-          "classSize": 33,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Lê Vũ Ngọc Toàn",
@@ -20214,7 +20136,7 @@
         },
         {
           "groupId": "11",
-          "classSize": 36,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Hùng Dũng",
@@ -20236,7 +20158,7 @@
         },
         {
           "groupId": "12",
-          "classSize": 34,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Hùng Dũng",
@@ -20258,7 +20180,7 @@
         },
         {
           "groupId": "13",
-          "classSize": 23,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Hùng Dũng",
@@ -20280,7 +20202,7 @@
         },
         {
           "groupId": "14",
-          "classSize": 5,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Nguyễn Hùng Dũng",
@@ -20302,7 +20224,7 @@
         },
         {
           "groupId": "21",
-          "classSize": 2,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Lê Vũ Ngọc Toàn",
@@ -20384,7 +20306,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 23,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Dương Ngọc Trường",
@@ -20406,7 +20328,7 @@
         },
         {
           "groupId": "02",
-          "classSize": 28,
+          "classSize": 2,
           "schedule": [
             {
               "teacher": "Đặng Minh Quân",
@@ -20428,7 +20350,7 @@
         },
         {
           "groupId": "03",
-          "classSize": 34,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Đặng Minh Quân",
@@ -20450,7 +20372,7 @@
         },
         {
           "groupId": "04",
-          "classSize": 36,
+          "classSize": 4,
           "schedule": [
             {
               "teacher": "Đặng Minh Quân",
@@ -20472,7 +20394,7 @@
         },
         {
           "groupId": "05",
-          "classSize": 35,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Đặng Minh Quân",
@@ -20494,7 +20416,7 @@
         },
         {
           "groupId": "06",
-          "classSize": 8,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Dương Ngọc Trường",
@@ -20516,7 +20438,7 @@
         },
         {
           "groupId": "07",
-          "classSize": 35,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Dương Ngọc Trường",
@@ -20538,7 +20460,7 @@
         },
         {
           "groupId": "08",
-          "classSize": 22,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Dương Ngọc Trường",
@@ -20560,7 +20482,7 @@
         },
         {
           "groupId": "09",
-          "classSize": 22,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Dương Ngọc Trường",
@@ -20582,7 +20504,7 @@
         },
         {
           "groupId": "10",
-          "classSize": 18,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Dương Ngọc Trường",
@@ -20626,7 +20548,7 @@
         },
         {
           "groupId": "12",
-          "classSize": 24,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Đặng Minh Quân",
@@ -20648,7 +20570,7 @@
         },
         {
           "groupId": "13",
-          "classSize": 35,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Đặng Minh Quân",
@@ -20670,7 +20592,7 @@
         },
         {
           "groupId": "14",
-          "classSize": 28,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Đặng Minh Quân",
@@ -20700,7 +20622,7 @@
       "groups": [
         {
           "groupId": "01",
-          "classSize": 18,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Đặng Minh Quân",
@@ -20906,7 +20828,7 @@
         },
         {
           "groupId": "09",
-          "classSize": 1,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Lê Ngọc Long",
@@ -21016,7 +20938,7 @@
         },
         {
           "groupId": "14",
-          "classSize": 1,
+          "classSize": 0,
           "schedule": [
             {
               "teacher": "Lê Ngọc Long",
@@ -21091,5 +21013,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-03-26T10:59:23.323Z"
+  "lastUpdated": "2026-03-27T11:06:20.599Z"
 }
