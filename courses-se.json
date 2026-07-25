@@ -3914,12 +3914,12 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-25T17:15:32.208Z",
+  "lastUpdated": "2026-07-25T17:37:17.938Z",
   "notifications": {
     "title": "Thời khóa biểu học kỳ mới đang chờ cập nhật",
     "content": [
-      "Hiện tại dữ liệu thời khóa biểu đang trong quá trình đồng bộ từ hệ thống của trường",
-      "Bạn có thể thử quay lại sau 12 tiếng nữa nhé. Tuy nhiên, hệ thống chưa thể cam kết có ngay vì còn phụ thuộc vào tiến độ cập nhật của trường."
+      "Hiện tại dữ liệu thời khóa biểu đang trong quá trình cập nhật.",
+      "Bạn có thể thử quay lại sau 12 tiếng nữa nhé. Tuy nhiên, hệ thống chưa thể cam kết có ngay vì còn phụ thuộc vào tiến độ cập nhật dữ liệu."
     ]
   }
 }
